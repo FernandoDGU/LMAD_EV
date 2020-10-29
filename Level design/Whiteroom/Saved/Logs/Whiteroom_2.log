@@ -1016,3 +1016,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.29-04.32.40:225][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.10.29-04.32.41:731][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2020.10.29-04.34.37:720][119]LogEditorTransaction: Undo Rotate Collision
+[2020.10.29-04.38.05:349][638]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Saved/uploads_files_2436004_cabin294B64ACC449FD5E619EF99BE503D9E76.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Content/Models/uploads_files_2436004_cabin2.uasset'
+[2020.10.29-04.38.05:360][638]AssetCheck: New page: Asset Save: uploads_files_2436004_cabin2
+[2020.10.29-04.38.05:360][638]LogContentValidation: Display: Validating StaticMesh /Game/Models/uploads_files_2436004_cabin2.uploads_files_2436004_cabin2
+[2020.10.29-04.39.06:979][ 24]Cmd: MODE SCALEGRID=0
+[2020.10.29-04.39.53:770][987]LogEditorTransaction: Undo Scale Collision
+[2020.10.29-04.41.20:801][752]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Saved/uploads_files_2436004_cabin260A9A60C45481A711698018FEB38C38C.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Content/Models/uploads_files_2436004_cabin2.uasset'
+[2020.10.29-04.41.20:823][752]AssetCheck: New page: Asset Save: uploads_files_2436004_cabin2
+[2020.10.29-04.41.20:823][752]LogContentValidation: Display: Validating StaticMesh /Game/Models/uploads_files_2436004_cabin2.uploads_files_2436004_cabin2
+[2020.10.29-04.41.21:575][766]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Saved/uploads_files_2436004_cabin2B672CA47404304FE313D188CE8042BD0.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/escenario/LMAD_EV/Level design/Whiteroom/Content/Models/uploads_files_2436004_cabin2.uasset'
+[2020.10.29-04.41.21:585][766]AssetCheck: New page: Asset Save: uploads_files_2436004_cabin2
+[2020.10.29-04.41.21:585][766]LogContentValidation: Display: Validating StaticMesh /Game/Models/uploads_files_2436004_cabin2.uploads_files_2436004_cabin2
+[2020.10.29-04.43.32:247][428]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.10.29-04.43.32:247][428]LogD3D11RHI: [Aftermath] GDynamicRHI=00000238C13CA0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.10.29-04.43.32:247][428]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.10.29-04.43.45:357][428]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.10.29-04.43.45:357][428]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.10.29-04.43.45:357][428]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.10.29-04.43.45:357][428]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2020.10.29-04.43.45:423][428]Log file closed, 10/28/20 22:43:45
