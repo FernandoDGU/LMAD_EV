@@ -1,0 +1,1190 @@
+﻿Log file open, 11/12/20 14:10:19
+LogInit: Display: Running engine for game: Whiteroom
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 10.976213
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.12-20.10.25:958][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.12-20.10.25:958][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.12-20.10.25:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:982][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.12-20.10.25:982][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.12-20.10.25:983][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.12-20.10.25:984][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:984][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.25:992][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.12-20.10.25:992][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.12-20.10.25:993][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.12-20.10.25:994][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.12-20.10.25:994][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.12-20.10.25:994][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.12-20.10.26:000][  0]LogHAL: Display: Platform has ~ 8 GB [8482693120 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.12-20.10.26:001][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.12-20.10.26:001][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.12-20.10.26:001][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.12-20.10.26:002][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Scalability.ini]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.12-20.10.26:003][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.12-20.10.26:060][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.12-20.10.26:060][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.12-20.10.26:060][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.12-20.10.26:060][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Config/Windows/Engine.ini]
+[2020.11.12-20.10.26:107][  0]LogInit: Computer: DESKTOP-ONDETJ2
+[2020.11.12-20.10.26:107][  0]LogInit: User: EDGAR
+[2020.11.12-20.10.26:142][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.11.12-20.10.26:142][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.12-20.10.26:143][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.12-20.10.26:143][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.12-20.10.26:143][  0]LogMemory: Process Physical Memory: 114.88 MB used, 114.88 MB peak
+[2020.11.12-20.10.26:143][  0]LogMemory: Process Virtual Memory: 97.27 MB used, 97.27 MB peak
+[2020.11.12-20.10.26:143][  0]LogMemory: Physical Memory: 5772.96 MB used,  2316.76 MB free, 8089.73 MB total
+[2020.11.12-20.10.26:143][  0]LogMemory: Virtual Memory: 5126.57 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.11.12-20.10.26:185][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.12-20.10.28:761][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.12-20.10.28:883][  0]LogInit: Using OS detected language (en-US).
+[2020.11.12-20.10.28:883][  0]LogInit: Using OS detected locale (es-MX).
+[2020.11.12-20.10.29:130][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.12-20.10.30:563][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.12-20.10.31:931][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.12-20.10.31:931][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.12-20.10.48:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.12-20.10.48:376][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.12-20.10.48:376][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.12-20.10.48:376][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.12-20.10.48:775][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.11.12-20.10.48:775][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.12-20.10.48:779][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.12-20.10.48:779][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.12-20.10.48:779][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.12-20.10.48:855][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.12-20.10.48:893][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.12-20.10.48:893][  0]LogWindows: EnumDisplayDevices:
+[2020.11.12-20.10.48:893][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.11.12-20.10.48:894][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.11.12-20.10.48:894][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.11.12-20.10.48:894][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.11.12-20.10.48:894][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.11.12-20.10.48:894][  0]LogD3D11RHI:   Driver Version: 26.20.100.8142 (internal:26.20.100.8142, unified:26.20.100.8142)
+[2020.11.12-20.10.48:894][  0]LogD3D11RHI:      Driver Date: 4-11-2020
+[2020.11.12-20.10.48:894][  0]LogRHI: Texture pool is 1505 MB (70% of 2150 MB)
+[2020.11.12-20.10.49:626][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.11.12-20.10.49:698][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.11.12-20.10.49:698][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.12-20.10.49:698][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.12-20.10.50:086][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.11.12-20.10.52:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.12-20.10.52:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.12-20.10.52:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.12-20.10.52:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.12-20.10.52:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.12-20.10.52:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.12-20.10.52:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.12-20.10.52:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.12-20.10.52:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.12-20.10.52:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.12-20.10.52:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.12-20.10.53:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.12-20.10.53:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.12-20.10.53:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.12-20.10.53:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.12-20.10.53:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.12-20.10.53:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.12-20.10.53:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.12-20.10.53:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.12-20.10.53:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.12-20.10.53:795][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.12-20.10.55:255][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Intermediate/Shaders/WorkingDirectory/16936/).
+[2020.11.12-20.10.55:256][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EDGAR/AppData/Local/Temp/UnrealShaderWorkingDir/773FB9B54A59A800E7E104B340173C98/'.
+[2020.11.12-20.10.55:270][  0]LogXGEController: Cleaning working directory: C:/Users/EDGAR/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.12-20.10.55:271][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.12-20.10.55:271][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.12-20.10.55:271][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.12-20.11.07:124][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.12-20.11.08:559][  0]LogDerivedDataCache: Loaded boot cache 1.42s 75MB C:/Users/EDGAR/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.12-20.11.08:560][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EDGAR/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.12-20.11.08:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.12-20.11.08:560][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.12-20.11.08:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.12-20.11.08:560][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.12-20.11.08:739][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.12-20.11.08:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.12-20.11.08:739][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.12-20.11.08:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EDGAR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.12-20.11.08:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.12-20.11.08:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.12-20.11.09:098][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.12-20.11.09:644][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.12-20.11.12:846][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.11.12-20.11.25:766][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.12-20.11.33:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.12-20.11.33:880][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.12-20.11.33:880][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.12-20.11.33:880][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.12-20.11.33:933][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.12-20.11.35:275][  0]LogNetVersion: Whiteroom 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3709002521)
+[2020.11.12-20.12.21:828][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000203397729C0), frame # 0
+[2020.11.12-20.12.21:829][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002033D5CEAC0), frame # 0
+[2020.11.12-20.12.21:927][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002033D629C00), frame # 0
+[2020.11.12-20.12.22:942][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.370095 seconds
+[2020.11.12-20.12.23:035][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.12-20.12.23:190][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.12-20.12.23:190][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.12-20.12.49:216][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.12-20.12.49:304][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.12-20.12.53:417][  0]SourceControl: Source control is disabled
+[2020.11.12-20.12.53:428][  0]SourceControl: Source control is disabled
+[2020.11.12-20.12.53:737][  0]SourceControl: Source control is disabled
+[2020.11.12-20.12.53:992][  0]SourceControl: Source control is disabled
+[2020.11.12-20.12.54:263][  0]SourceControl: Source control is disabled
+[2020.11.12-20.13.06:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.12-20.13.07:184][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.12-20.13.07:184][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.12-20.13.08:734][  0]LogOcInput: OculusInput pre-init called
+[2020.11.12-20.13.09:214][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.12-20.13.09:215][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.12-20.13.14:848][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 3.88s
+[2020.11.12-20.13.15:192][  0]LogEngine: Initializing Engine...
+[2020.11.12-20.13.15:527][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.12-20.13.15:543][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.12-20.13.15:714][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.023 s
+[2020.11.12-20.13.17:258][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.12-20.13.19:343][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.12-20.13.19:343][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020341B57C00), frame # 0
+[2020.11.12-20.13.19:344][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020341BD5300), frame # 0
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.12-20.13.20:007][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.12-20.13.20:008][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.12-20.13.20:026][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.12-20.13.20:027][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.12-20.13.20:517][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.12-20.13.20:517][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.12-20.13.20:780][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.11.12-20.13.20:861][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.12-20.13.20:864][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.12-20.13.20:865][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.12-20.13.20:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.12-20.13.20:953][  0]LogInit: FAudioDevice initialized.
+[2020.11.12-20.13.21:134][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.12-20.13.21:948][  0]LogDerivedDataCache: Saved boot cache 0.81s 75MB C:/Users/EDGAR/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.12-20.13.21:957][  0]LogInit: Texture streaming: Enabled
+[2020.11.12-20.13.26:892][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.12-20.13.26:892][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.12-20.13.29:404][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.12-20.13.32:889][  0]LogInit: Transaction tracking system initialized
+[2020.11.12-20.13.34:967][  0]BlueprintLog: New page: Editor Load
+[2020.11.12-20.13.40:691][  0]LocalizationService: Localization service is disabled
+[2020.11.12-20.13.51:702][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/' took 0.05s
+[2020.11.12-20.13.51:702][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.12-20.13.51:787][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.12-20.14.12:601][  0]SourceControl: Source control is disabled
+[2020.11.12-20.14.12:747][  0]LogUnrealEdMisc: Loading editor; pre map load, took 330.698
+[2020.11.12-20.14.13:000][  0]Cmd: MAP LOAD FILE="../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.12-20.14.13:460][  0]LightingResults: New page: Lighting Build
+[2020.11.12-20.14.14:131][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-20.14.14:539][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-20.14.14:943][  0]MapCheck: New page: Map Check
+[2020.11.12-20.14.14:943][  0]LightingResults: New page: Lighting Build
+[2020.11.12-20.14.18:150][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020341B57C00), frame # 0
+[2020.11.12-20.14.18:222][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020341BD5300), frame # 0
+[2020.11.12-20.14.18:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.12-20.15.24:069][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.11.12-20.15.24:070][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002033598FE00), frame # 0
+[2020.11.12-20.15.24:070][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000203359F2200), frame # 0
+[2020.11.12-20.15.32:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.12-20.15.35:047][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.12-20.15.35:105][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.12-20.15.35:216][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.917ms to complete.
+[2020.11.12-20.15.35:216][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 82.334
+[2020.11.12-20.15.41:209][  0]LogUnrealEdMisc: Total Editor Startup Time, took 419.159
+[2020.11.12-20.15.45:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.15.45:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.15.45:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.15.45:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.15.46:359][  0]LogCollectionManager: Loaded 0 collections in 0.004823 seconds
+[2020.11.12-20.15.47:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Collections/' took 0.00s
+[2020.11.12-20.15.47:212][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Developers/EDGAR/Collections/' took 0.00s
+[2020.11.12-20.15.47:212][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Collections/' took 0.00s
+[2020.11.12-20.15.47:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0789 seconds. Added 3427 classes and 821 folders.
+[2020.11.12-20.15.48:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.11.12-20.16.08:036][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.11.12-20.16.08:430][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0264 seconds. Added 2 classes and 0 folders.
+[2020.11.12-20.16.13:260][  0]LogSlate: Took 1.223929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.12-20.16.13:551][  0]LogSlate: Took 0.287694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.12-20.16.13:962][  0]LogSlate: Took 0.221618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.12-20.16.15:315][  0]LogRenderer: Reallocating scene render targets to support 904x432 Format 10 NumSamples 1 (Frame:1).
+[2020.11.12-20.16.32:052][  0]LogSlate: Took 0.087657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.12-20.16.33:349][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.11.12-20.16.33:349][  0]LogLoad: (Engine Initialization) Total time: 471.30 seconds
+[2020.11.12-20.16.33:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.12-20.16.40:413][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.12-20.16.43:191][  2]LogAssetRegistry: Asset discovery search completed in 330.3463 seconds
+[2020.11.12-20.16.43:270][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000264 seconds (updated 0 objects)
+[2020.11.12-20.16.44:751][  7]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.12-20.17.36:187][433]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.11.12-20.17.37:157][434]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.11.12-20.17.37:157][434]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.11.12-20.17.37:157][434]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.12-20.17.37:689][434]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.11.12-20.17.47:945][491]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.12-20.17.54:397][491]LogTexture: Display: Building textures: Park_bench_natural_dif (AutoDXT, 1024X1024)
+[2020.11.12-20.17.54:398][491]LogMaterial: Display: Missing cached shader map for material M_Bancas, compiling. 
+[2020.11.12-20.18.11:610][491]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.11.12-20.18.24:233][491]LogTexture: Display: Building textures: M_table_chairs_bench_BaseColor (AutoDXT, 2048X2048)
+[2020.11.12-20.18.24:233][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2020.11.12-20.18.24:233][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.11.12-20.18.24:234][491]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.11.12-20.18.24:769][491]LogMaterial: Display: Missing cached shader map for material M_Mesa, compiling. 
+[2020.11.12-20.18.29:935][491]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.11.12-20.18.30:970][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.12-20.18.31:050][491]Cmd: MAP LOAD FILE="../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.12-20.18.31:052][491]LightingResults: New page: Lighting Build
+[2020.11.12-20.18.31:053][491]LoadErrors: New page: Loading map: NivelConTerreno.umap
+[2020.11.12-20.18.34:453][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2020.11.12-20.18.34:453][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.11.12-20.18.34:453][491]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-20.18.34:583][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-20.18.34:584][491]MapCheck: New page: Map Check
+[2020.11.12-20.18.34:584][491]LightingResults: New page: Lighting Build
+[2020.11.12-20.18.40:350][491]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.11.12-20.18.41:700][491]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002033598FE00), frame # 491
+[2020.11.12-20.18.41:700][491]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000203359F2200), frame # 491
+[2020.11.12-20.18.41:703][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.12-20.19.00:173][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.11.12-20.19.00:173][491]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.12-20.19.00:173][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.11.12-20.19.00:173][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.12-20.19.00:394][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.12-20.19.00:394][491]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.11.12-20.19.00:394][491]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002037D0B4800), frame # 491
+[2020.11.12-20.19.00:434][491]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002037D6BBD80), frame # 491
+[2020.11.12-20.19.01:308][491]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.11.12-20.19.01:309][491]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.11.12-20.19.01:354][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.12-20.19.01:638][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.12-20.19.01:639][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.767ms to complete.
+[2020.11.12-20.19.01:640][491]LogFileHelpers: Loading map 'NivelConTerreno' took 30.589
+[2020.11.12-20.19.02:264][492]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.12-20.22.40:864][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.12-20.22.45:731][176]Cmd: DELETE
+[2020.11.12-20.22.45:731][176]Cmd: ACTOR DELETE
+[2020.11.12-20.22.46:655][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-20.22.46:681][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.12-20.22.46:711][176]LogEditorActor: Deleted 1 Actors (0.353 secs)
+[2020.11.12-20.23.00:093][462]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.12-20.23.00:413][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.12-20.23.00:440][462]PIE: New page: PIE session: NivelConTerreno (12 nov. 2020 8:23:00)
+[2020.11.12-20.23.00:535][462]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.12-20.23.00:553][462]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.12-20.23.00:593][462]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.11.12-20.23.00:864][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270625s)
+[2020.11.12-20.23.00:908][462]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.11.12-20.23.00:909][462]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002038F52A600), frame # 1462
+[2020.11.12-20.23.00:910][462]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020333C94180), frame # 1462
+[2020.11.12-20.23.00:911][462]LogPlayLevel: PIE: World Init took: (0.047554s)
+[2020.11.12-20.23.00:911][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.319087s)
+[2020.11.12-20.23.00:992][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.12-20.23.00:996][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.12-20.23.00:998][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.12-20.23.00:998][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.12-20.23.00:999][462]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.12-20.23.00:999][462]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.12-20.23.01:036][462]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.12-20.23.01:036][462]LogAudioMixer: Display: 1: FrontRight
+[2020.11.12-20.23.01:203][462]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.11.12-20.23.01:203][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.12-20.23.01:203][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.12-20.23.01:203][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.12-20.23.01:204][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.12-20.23.01:222][462]LogInit: FAudioDevice initialized.
+[2020.11.12-20.23.01:391][462]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.12-20.23.01:736][462]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.11.12-14.23.01
+[2020.11.12-20.23.01:806][462]LogWorld: Bringing up level for play took: 0.113410
+[2020.11.12-20.23.01:824][462]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.11.12-20.23.02:311][462]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.11.12-20.23.02:605][462]PIE: Server logged in
+[2020.11.12-20.23.02:633][462]PIE: Play in editor total start time 2.484 seconds.
+[2020.11.12-20.23.36:320][283]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.12-20.25.16:797][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.25.16:797][867]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.11.12-20.25.16:820][867]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-20.25.16:824][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-20.25.17:091][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.12-20.25.17:156][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-20.25.17:192][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-20.25.17:352][867]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020333C94180), frame # 4867
+[2020.11.12-20.25.17:352][867]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002038F52A600), frame # 4867
+[2020.11.12-20.25.17:382][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.11.12-20.25.17:492][868]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.11.12-20.30.04:756][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.11.12-20.30.06:636][906]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_Auto118F8771E4475C9457D09D081DA0CE493.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/ThirdPersonBP/Maps/NivelConTerreno_Auto1.umap'
+[2020.11.12-20.30.06:853][906]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NivelConTerreno' took 2.110
+[2020.11.12-20.30.06:853][906]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.110
+[2020.11.12-20.37.23:552][294]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.11.12-20.37.29:794][399]Cmd: TRANSACTION UNDO
+[2020.11.12-20.37.29:794][399]LogEditorTransaction: Undo Move Actors
+[2020.11.12-20.37.46:390][705]Cmd: TRANSACTION UNDO
+[2020.11.12-20.37.46:390][705]LogEditorTransaction: Undo Scale Actors
+[2020.11.12-20.38.02:638][ 19]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.11.12-20.38.42:076][811]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.11.12-20.40.07:324][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.12-20.40.07:751][145]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_Auto2C845EB5B465E2ED67B635E9B60A57011.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/ThirdPersonBP/Maps/NivelConTerreno_Auto2.umap'
+[2020.11.12-20.40.07:975][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NivelConTerreno' took 0.660
+[2020.11.12-20.40.07:975][145]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.660
+[2020.11.12-21.38.06:584][535]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.11.12-21.41.19:033][101]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.12-21.42.10:933][488]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Terreno.M_Terreno
+[2020.11.12-21.42.12:103][488]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.42.14:963][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.42.14:963][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.42.14:963][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.42.34:445][488]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.42.35:039][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.42.35:039][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.42.35:039][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.42.35:073][488]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.42.35:702][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.11.12-21.42.39:463][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.11.12-21.42.39:464][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.11.12-21.42.39:464][488]LogSlate: Took 1.738244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.12-21.42.45:798][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.12-21.42.59:112][489]LogUObjectHash: Compacting FUObjectHashTables data took  13.06ms
+[2020.11.12-21.42.59:117][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NivelConTerreno' took 0.232
+[2020.11.12-21.42.59:283][489]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_Terreno] ([1] browsable assets)...
+[2020.11.12-21.43.00:431][489]OBJ SavePackage:     Rendered thumbnail for [Material /Game/M_Terreno.M_Terreno]
+[2020.11.12-21.43.00:431][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_Terreno]
+[2020.11.12-21.43.01:032][489]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/M_Terreno_Auto3B3271E9D48AD76AA1C82B9B933E91BA1.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/M_Terreno_Auto3.uasset'
+[2020.11.12-21.43.01:035][489]LogFileHelpers: Auto-saving content packages took 1.917
+[2020.11.12-21.43.03:415][490]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.43.03:416][490]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.43.03:416][490]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.43.03:416][490]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.43.41:710][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\EDGAR\Desktop\assets\Stylized_Rocks_001_SD\M_rocas.jpg)
+[2020.11.12-21.43.42:495][761]LogTexture: Display: Building textures: M_rocas (AutoDXT, 1024X1024)
+[2020.11.12-21.44.01:948][981]LogSlate: Window 'M_Terreno' being destroyed
+[2020.11.12-21.44.01:969][981]LogSlate: Window 'M_Terreno' being destroyed
+[2020.11.12-21.44.02:357][981]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-21.44.02:358][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-21.44.09:585][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.12-21.44.12:918][ 58]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.12-21.44.14:093][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.11.12-21.44.17:303][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-21.44.18:731][118]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.12-21.44.18:813][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-21.44.36:880][298]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\EDGAR\Desktop\assets\Stylized_Rocks_001_SD\M_rocas.jpg)
+[2020.11.12-21.44.36:925][298]LogTexture: Display: Building textures: M_rocas (AutoDXT, 1024X1024)
+[2020.11.12-21.44.56:285][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\EDGAR\Desktop\assets\Stylized_Grass_001_SD\M_Grass.jpg)
+[2020.11.12-21.44.57:051][360]LogTexture: Display: Building textures: M_Grass (AutoDXT, 1024X1024)
+[2020.11.12-21.45.19:540][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_rocas" FILE="../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Materials/M_rocas.uasset" SILENT=true
+[2020.11.12-21.45.20:110][439]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/M_rocasFDFF9EF049CC5D74A705B99B2B311CF5.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Materials/M_rocas.uasset'
+[2020.11.12-21.45.21:871][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.12-21.45.28:964][439]AssetCheck: New page: Asset Save: M_Rocas
+[2020.11.12-21.45.29:650][439]LogContentValidation: Display: Validating Texture2D /Game/Materials/M_rocas.M_Rocas
+[2020.11.12-21.45.46:978][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\EDGAR\Desktop\assets\Grass_005_SD\M_Tierra.jpg)
+[2020.11.12-21.45.47:247][578]LogTexture: Display: Building textures: M_Tierra (AutoDXT, 1024X1024)
+[2020.11.12-21.46.05:236][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Terreno" FILE="../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Terreno.uasset" SILENT=true
+[2020.11.12-21.46.05:350][766]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/M_TerrenoFF9A5C7B4611298A7C6EF78A135A5088.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Terreno.uasset'
+[2020.11.12-21.46.05:879][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.11.12-21.46.05:919][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.12-21.46.05:937][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.12-21.46.05:999][766]AssetCheck: New page: Asset Save: M_Terreno
+[2020.11.12-21.46.05:999][766]LogContentValidation: Display: Validating Material /Game/Materials/M_Terreno.M_Terreno
+[2020.11.12-21.46.10:199][815]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Terreno.M_Terreno
+[2020.11.12-21.46.10:478][815]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.46.11:003][815]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.46.11:026][815]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.46.11:049][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.46.11:049][815]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.46.11:049][815]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.46.16:581][861]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.12-21.46.18:923][881]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.11.12-21.46.21:565][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.46.24:055][923]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.12-21.46.24:156][924]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.11.12-21.46.28:938][960]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.11.12-21.46.39:081][ 41]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.46.39:084][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.46.39:085][ 41]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.46.39:086][ 41]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.46.54:503][130]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.46.55:173][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.46.55:173][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.46.55:173][130]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.46.55:173][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.12-21.46.55:227][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.12-21.46.58:398][130]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.11.12-21.46.58:398][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.11.12-21.46.58:398][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.11.12-21.46.58:398][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.12-21.46.58:399][130]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.12-21.46.58:399][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.11.12-21.46.58:399][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.11.12-21.46.59:276][132]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.12-21.46.59:326][132]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.11.12-21.46.59:326][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.12-21.46.59:431][134]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.46.59:431][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.46.59:431][134]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.46.59:431][134]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.47.09:912][242]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.47.09:926][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.12-21.47.09:936][242]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.47.09:936][242]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.11.12-21.47.09:936][242]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.11.12-21.47.10:184][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.12-21.47.10:800][242]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.11.12-21.47.10:800][242]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.11.12-21.47.10:800][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.12-21.47.12:810][259]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.47.16:538][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.11.12-21.47.17:722][311]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.11.12-21.47.18:450][319]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.11.12-21.47.25:495][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.47.26:886][402]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.12-21.47.27:967][413]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.12-21.47.28:298][413]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.47.28:298][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.47.28:298][413]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.47.28:298][413]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.47.29:610][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.12-21.47.29:610][418]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.11.12-21.47.29:725][419]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.11.12-21.47.32:692][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.12-21.47.32:692][441]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.47.32:737][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.11.12-21.47.32:737][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.12-21.47.32:786][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.11.12-21.47.32:786][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.12-21.47.32:937][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.12-21.47.33:740][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.12-21.47.33:740][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.12-21.47.33:740][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.12-21.47.34:008][446]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.11.12-21.47.40:251][515]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.11.12-21.47.44:633][565]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.12-21.47.50:458][628]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.11.12-21.47.58:710][720]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.11.12-21.48.00:155][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.48.04:397][768]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.48.06:291][780]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.11.12-21.48.08:273][799]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.11.12-21.48.08:407][800]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.48.08:407][800]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.48.08:407][800]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.48.08:407][800]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.48.18:600][894]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.48.21:678][917]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.11.12-21.48.22:134][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.11.12-21.48.22:237][922]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.12-21.48.24:732][939]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.12-21.48.25:529][945]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.48.25:529][945]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.12-21.48.26:973][955]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.12-21.48.27:708][961]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.11.12-21.49.29:053][261]LogSlate: Took 0.093149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.12-21.49.43:667][374]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.11.12-21.49.50:759][441]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.11.12-21.52.26:496][994]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.52.27:647][995]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.52.27:648][995]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.52.27:648][995]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.52.31:334][ 40]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.52.37:978][ 98]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.52.55:233][281]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.11.12-21.52.55:594][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.52.56:091][288]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.12-21.52.59:682][306]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.11.12-21.52.59:682][306]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.11.12-21.53.00:262][309]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.53.02:375][324]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.11.12-21.53.03:082][328]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.12-21.53.04:197][335]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.11.12-21.53.08:083][358]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.53.08:083][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.53.08:083][358]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.53.08:083][358]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.53.18:648][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.11.12-21.53.26:293][387]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.11.12-21.53.30:789][387]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_Auto4D47244054D4FB77F24AD499DA013E065.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/ThirdPersonBP/Maps/NivelConTerreno_Auto4.umap'
+[2020.11.12-21.53.30:865][387]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NivelConTerreno' took 12.376
+[2020.11.12-21.53.30:865][387]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.376
+[2020.11.12-21.53.30:865][387]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Grass] ([1] browsable assets)...
+[2020.11.12-21.53.30:880][387]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/M_Grass.M_Grass]
+[2020.11.12-21.53.30:881][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Grass]
+[2020.11.12-21.53.31:694][387]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/M_Grass_Auto4D21EBA31477A0BC934C28AB0AE12C4D2.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/Materials/M_Grass_Auto4.uasset'
+[2020.11.12-21.53.31:696][387]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Tierra] ([1] browsable assets)...
+[2020.11.12-21.53.31:704][387]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/M_Tierra.M_Tierra]
+[2020.11.12-21.53.31:704][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Tierra]
+[2020.11.12-21.53.31:771][387]LogSavePackage: Moving '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/M_Tierra_Auto4E071869B4255E613A7B78A8A1C72133C.tmp' to '../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Saved/Autosaves/Game/Materials/M_Tierra_Auto4.uasset'
+[2020.11.12-21.53.31:774][387]LogFileHelpers: Auto-saving content packages took 0.909
+[2020.11.12-21.54.01:999][528]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.02:024][528]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.54.02:024][528]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.54.02:025][528]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.54.02:062][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.12-21.54.06:647][582]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.06:747][582]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.10:243][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_0, compiling. 
+[2020.11.12-21.54.15:273][675]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.12-21.54.16:656][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.12-21.54.17:722][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.12-21.54.17:986][692]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.12-21.54.23:787][756]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.23:980][756]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_0, compiling. 
+[2020.11.12-21.54.24:159][756]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.24:707][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.54.24:766][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.11.12-21.54.24:891][766]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.11.12-21.54.29:591][808]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.11.12-21.54.30:014][811]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.11.12-21.54.30:131][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.54.34:570][849]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.12-21.54.34:570][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.11.12-21.54.34:570][849]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.11.12-21.54.34:698][849]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.34:707][849]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.54.35:032][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_0, compiling. 
+[2020.11.12-21.54.35:175][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.54.35:229][850]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.12-21.54.40:218][908]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.11.12-21.54.46:756][982]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.46:894][982]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.54.46:956][982]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.46:989][983]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.12-21.54.47:050][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.54.47:245][987]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.12-21.54.52:893][ 50]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.54.52:939][ 50]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_0, compiling. 
+[2020.11.12-21.54.53:040][ 50]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.54.53:101][ 50]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.12-21.54.54:045][ 62]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.54.54:899][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.12-21.54.58:958][101]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.11.12-21.54.59:774][105]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.55.00:252][108]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.55.02:542][125]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.11.12-21.55.03:502][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.11.12-21.55.03:798][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.55.06:338][150]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.11.12-21.55.06:939][154]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.55.07:192][156]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.11.12-21.55.07:243][156]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.11.12-21.55.07:243][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.11.12-21.55.07:243][156]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-21.55.07:243][156]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.12-21.55.08:738][165]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.12-21.55.10:281][176]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.55.10:418][177]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.12-21.55.11:394][183]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.12-21.55.12:923][191]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.11.12-21.55.16:242][227]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.16:568][227]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.55.16:594][227]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.16:677][230]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.11.12-21.55.16:776][230]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.55.18:312][247]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.11.12-21.55.20:137][266]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.20:194][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.55.20:236][266]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.25:074][321]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.25:131][321]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.11.12-21.55.25:131][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.12-21.55.25:416][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.55.25:778][327]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.12-21.55.26:592][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.55.30:275][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.12-21.55.46:571][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.11.12-21.55.47:642][528]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.11.12-21.55.47:642][528]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.55.57:788][642]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.55.57:939][642]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.55.58:563][642]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.00:831][668]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.01:766][668]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.02:919][683]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.11.12-21.56.05:007][698]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.05:030][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.05:043][698]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.05:477][705]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.11.12-21.56.06:006][711]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.11.12-21.56.06:172][713]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.11.12-21.56.09:281][748]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.09:302][748]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.09:318][748]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.13:330][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.12-21.56.13:658][789]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.56.13:843][789]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.11.12-21.56.14:335][790]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.11.12-21.56.14:917][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.56.17:781][828]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.17:814][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_1, compiling. 
+[2020.11.12-21.56.17:833][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.20:682][859]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.20:702][859]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.12-21.56.20:990][859]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.12-21.56.20:990][859]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.21:115][862]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.11.12-21.56.21:194][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.11.12-21.56.32:343][979]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.11.12-21.56.33:108][985]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.12-21.56.33:929][992]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.56.34:850][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.11.12-21.56.37:854][ 16]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.11.12-21.56.38:098][ 18]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.11.12-21.56.38:841][ 26]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.11.12-21.56.41:047][ 42]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.11.12-21.56.41:578][ 46]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.11.12-21.56.45:245][ 85]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.56.45:518][ 85]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.11.12-21.56.45:518][ 85]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerWeight_2, compiling. 
+[2020.11.12-21.56.46:986][102]LogMaterialEditor: Saving and Compiling material M_Terreno
+[2020.11.12-21.58.09:917][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.11.12-21.58.09:918][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.12-21.58.10:037][102]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.58.10:578][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.12-21.58.10:578][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.12-21.58.10:578][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.12-21.58.12:915][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.12-21.58.13:270][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.12-21.58.13:354][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.11.12-21.58.13:879][102]LogMaterial: Display: Missing cached shader map for material M_Terreno, compiling. 
+[2020.11.12-21.58.14:327][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.12-21.58.14:327][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.11.12-21.58.14:327][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.12-21.58.15:485][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.12-21.58.15:485][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.11.12-21.58.15:485][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.11.12-21.58.15:485][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.11.12-21.58.16:426][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.12-21.58.17:181][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.11.12-21.58.17:733][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.12-21.58.18:135][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.11.12-21.58.18:381][102]TextureStreamingBuild: Display: Compiling optional shaders took 2.089 seconds.
+[2020.11.12-21.58.18:847][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.11.12-22.02.06:942][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.11.12-22.02.09:558][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Terreno" FILE="../../../../../../Users/EDGAR/Desktop/Proyecto_ESCVID/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Terreno.uasset" SILENT=true
+[2020.11.12-22.02.10:268][102]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.12-22.03.55:394][102]LogStats: FPlatformStackWalk::StackWalkAndDump - 105.054 s
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: 
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: Found circular redirect from /Game/Materials/M_rocas.M_Rocas to /Game/Materials/M_Rocas.M_Rocas! Returning None instead
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: Stack: 
+[2020.11.12-22.03.55:488][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1884c5a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1843b7f0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18772ad6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1878b2ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1846f747 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18e07512 UE4Editor-Core.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18782e03 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18670259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185d9576 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18731897 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18731df2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185dbc35 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185d9b7c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185d968e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18731897 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa186bc4f5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18731df2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:489][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185dbc35 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa185d9b7c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa186bc884 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa186baeba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa186ba9cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa16100722 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18710b82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18737e7c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa18719ed9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa13274127 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa13274bac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa132b1fe2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa132ae8fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa13aea077 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1361b9f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1361a2d5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:490][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1362f2e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa13b4cc7c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa0fb499f8 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa13af6c5e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14e9f238 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14f8b0a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14f6ae07 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1500207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa1501b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14e62dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14ee69cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14ecf4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa14ec2392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa44ee7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa44ed5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa44eea619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa44ed17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa8624e6d8 USER32.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa8624e119 USER32.dll!UnknownFunction []
+[2020.11.12-22.03.55:491][102]LogOutputDevice: Error: [Callstack] 0x00007ffa44eebb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ff6a73968c4 UE4Editor.exe!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ff6a73aba7c UE4Editor.exe!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ff6a73abb5a UE4Editor.exe!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ff6a73be31d UE4Editor.exe!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ff6a73c145a UE4Editor.exe!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ffa84817034 KERNEL32.DLL!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: [Callstack] 0x00007ffa8675cec1 ntdll.dll!UnknownFunction []
+[2020.11.12-22.03.55:492][102]LogOutputDevice: Error: 
+[2020.11.12-22.03.56:932][102]LogStats:                SubmitErrorReport -  0.000 s
