@@ -2376,3 +2376,678 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.05-06.23.11:573][285]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.05-06.23.11:574][285]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
 [2020.12.05-06.23.11:574][285]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-06.24.36:198][570]LogSlate: Window 'BP_Arbusto' being destroyed
+[2020.12.05-06.24.36:213][570]LogSlate: Window 'BP_Arbusto' being destroyed
+[2020.12.05-06.24.36:219][570]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.24.36:219][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.25.39:520][660]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Fcfm/Nueva carpeta/Torre.jpg)
+[2020.12.05-06.25.39:580][660]LogTexture: Display: Building textures: Torre (BGRA8, 1009X672)
+[2020.12.05-06.25.42:722][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.05-06.25.43:762][811]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.05-06.25.43:877][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.12.05-06.26.00:446][536]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Fcfm/Nueva carpeta/Torre.jpg)
+[2020.12.05-06.26.00:460][536]LogTexture: Display: Building textures: Torre (BGRA8, 1009X672)
+[2020.12.05-06.26.18:941][389]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Torre.M_Torre
+[2020.12.05-06.26.18:955][389]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.19:336][389]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.19:344][389]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.19:356][389]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.05-06.26.19:357][389]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.26.19:357][389]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.05-06.26.19:357][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.05-06.26.24:210][540]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.05-06.26.24:966][565]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.05-06.26.25:526][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.26.25:632][575]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.05-06.26.26:689][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.05-06.26.27:519][610]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.12.05-06.26.27:519][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.12.05-06.26.27:519][610]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.12.05-06.26.27:519][610]MaterialEditorStats: Texture samplers: 2/16
+[2020.12.05-06.26.30:988][718]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.31:038][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.05-06.26.31:038][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.26.31:038][718]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.05-06.26.31:038][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.05-06.26.31:038][718]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.26.31:050][718]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.26.32:090][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.05-06.26.32:685][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.26.33:016][761]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.05-06.26.33:106][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.05-06.26.33:795][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.05-06.26.33:845][782]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.34:047][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.05-06.26.34:056][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.26.34:292][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.05-06.26.34:377][790]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.05-06.26.34:682][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.05-06.26.35:154][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.05-06.26.35:978][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.05-06.26.36:347][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.05-06.26.36:684][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.05-06.26.36:848][848]LogMaterialEditor: Saving and Compiling material M_Torre
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.05-06.26.39:774][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.05-06.26.39:781][848]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.39:824][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.05-06.26.39:824][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.26.39:824][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.05-06.26.39:824][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.05-06.26.39:885][848]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.26.39:959][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.12.05-06.26.40:012][848]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-06.26.40:576][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.12.05-06.26.40:576][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.05-06.26.40:576][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.05-06.26.41:134][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.05-06.26.41:134][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.05-06.26.41:134][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.05-06.26.41:457][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.05-06.26.41:457][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.05-06.26.41:457][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.05-06.26.41:457][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.26.41:457][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.05-06.26.41:470][848]TextureStreamingBuild: Display: Compiling optional shaders took 1.491 seconds.
+[2020.12.05-06.26.42:583][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.05-06.26.42:583][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.12.05-06.26.42:661][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.05-06.26.43:226][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.05-06.26.43:286][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Torre" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Torre.uasset" SILENT=true
+[2020.12.05-06.26.43:299][848]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/M_TorreCC34D7C24E77E15896F119803C791BCC.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Torre.uasset'
+[2020.12.05-06.26.43:352][848]AssetCheck: New page: Asset Save: M_Torre
+[2020.12.05-06.26.43:352][848]LogContentValidation: Display: Validating Material /Game/Materials/M_Torre.M_Torre
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.12.05-06.26.43:362][848]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.05-06.26.45:251][915]LogSlate: Window 'M_Torre' being destroyed
+[2020.12.05-06.26.45:261][915]LogSlate: Window 'M_Torre' being destroyed
+[2020.12.05-06.26.45:313][915]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.26.45:313][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.26.46:777][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.12.05-06.26.47:779][986]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-06.26.47:821][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_Arbusto" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/BLUEPRINTS/BP_Arbusto.uasset" SILENT=true
+[2020.12.05-06.26.47:847][986]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/BP_Arbusto4442ECFE41F83CA0F72264AA10D11C7B.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/BLUEPRINTS/BP_Arbusto.uasset'
+[2020.12.05-06.26.47:861][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/Torre" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Torre.uasset" SILENT=true
+[2020.12.05-06.26.47:925][986]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/Torre3A62F8B84F392D29626C109F6CE90E4F.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Torre.uasset'
+[2020.12.05-06.26.47:948][986]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.26.47:948][986]LogContentValidation: Display: Validating Blueprint /Game/BLUEPRINTS/BP_Arbusto.BP_Arbusto
+[2020.12.05-06.26.47:948][986]LogContentValidation: Display: Validating Texture2D /Game/Texture/Torre.Torre
+[2020.12.05-06.27.10:611][566]LogMaterial: Display: Missing cached shader map for material Torre_Mat, compiling. 
+[2020.12.05-06.27.10:634][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.05-06.27.10:634][566]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.05-06.27.10:634][566]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.05-06.27.10:634][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.27.10:683][566]LogMaterial: Display: Material /Game/Texture/Torre_Mat.Torre_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.12.05-06.27.10:687][566]LogMaterial: Display: Missing cached shader map for material Torre_Mat, compiling. 
+[2020.12.05-06.27.13:287][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.12.05-06.27.18:873][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.05-06.27.20:440][861]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.05-06.27.20:762][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.27.26:080][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.05-06.27.28:487][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.27.28:776][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.05-06.27.28:842][ 83]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.05-06.27.32:010][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OBJ)
+[2020.12.05-06.27.37:286][425]LogMaterial: Display: Material /Game/Materials/M_Torre.M_Torre needed to have new flag set bUsedWithStaticLighting !
+[2020.12.05-06.27.37:286][425]LogMaterial: Display: Missing cached shader map for material M_Torre, compiling. 
+[2020.12.05-06.27.37:321][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.12.05-06.27.37:321][426]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.05-06.27.37:321][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.05-06.27.37:321][426]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.28.20:935][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.12.05-06.28.21:928][ 34]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-06.28.21:978][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Torre" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Torre.uasset" SILENT=true
+[2020.12.05-06.28.21:993][ 34]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/M_Torre7A84F8AD420F04B7CD0F798FC27376E3.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Torre.uasset'
+[2020.12.05-06.28.22:002][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/Torre_Mat" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Torre_Mat.uasset" SILENT=true
+[2020.12.05-06.28.22:020][ 34]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/Torre_Mat6B18457D4CAE05D2823C1E98B75C9444.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Torre_Mat.uasset'
+[2020.12.05-06.28.22:046][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.12.05-06.28.22:383][ 34]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno3B9993834A5B6A11D81C1D873973A07E.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-06.28.22:429][ 34]LogFileHelpers: Saving map 'NivelConTerreno' took 0.408
+[2020.12.05-06.28.23:338][ 34]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData23FB92DC45E4752692B563A1EB5184B6.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-06.28.23:896][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.28.23:896][ 34]LogContentValidation: Display: Validating Material /Game/Materials/M_Torre.M_Torre
+[2020.12.05-06.28.23:896][ 34]LogContentValidation: Display: Validating Material /Game/Texture/Torre_Mat.Torre_Mat
+[2020.12.05-06.28.23:896][ 34]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-06.28.23:896][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-06.30.41:223][242]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Fcfm/Nueva carpeta/Tree/Tree - High Quality.obj)
+[2020.12.05-06.30.41:452][242]LogFbx: Loading FBX Scene from ../../../../../Fcfm/Nueva carpeta/Tree/Tree - High Quality.obj
+[2020.12.05-06.30.45:597][242]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.05-06.30.47:586][242]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.05-06.30.48:673][242]LogStaticMesh: Building static mesh Tree_-_High_Quality...
+[2020.12.05-06.30.50:457][242]LogStaticMesh: Built static mesh [1.78s] /Game/Models/Tree_-_High_Quality.Tree_-_High_Quality
+[2020.12.05-06.30.50:470][242]LogStaticMesh: Warning: Tree_-_High_Quality has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.12.05-06.30.50:470][242]LogStaticMesh: Warning: Tree_-_High_Quality has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.12.05-06.30.50:495][242]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.05-06.30.50:496][242]FBXImport: Warning: Tree_-_High_Quality has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2020.12.05-06.30.50:496][242]FBXImport: Warning: Tree_-_High_Quality has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.12.05-06.30.52:735][302]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.30.52:756][302]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.30.54:745][360]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree_-_High_Quality.Tree_-_High_Quality
+[2020.12.05-06.30.55:015][360]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.30.55:015][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.31.33:157][321]LogSlate: Window 'Tree_-_High_Quality' being destroyed
+[2020.12.05-06.31.33:176][321]LogSlate: Window 'Tree_-_High_Quality' being destroyed
+[2020.12.05-06.31.33:182][321]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.31.33:182][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.31.35:045][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.05-06.31.36:304][371]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.05-06.31.36:415][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.05-06.34.47:609][ 40]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Fcfm/Nueva carpeta/Tree/Tronquito.fbx)
+[2020.12.05-06.34.47:712][ 40]LogFbx: Loading FBX Scene from ../../../../../Fcfm/Nueva carpeta/Tree/Tronquito.fbx
+[2020.12.05-06.34.48:043][ 40]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.05-06.34.49:232][ 40]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.05-06.34.51:420][ 40]LogStaticMesh: Building static mesh Tronquito...
+[2020.12.05-06.34.56:645][ 40]LogStaticMesh: Built static mesh [5.23s] /Game/Models/Tronquito.Tronquito
+[2020.12.05-06.35.01:137][ 40]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.05-06.35.06:525][120]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.35.06:540][120]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.35.08:929][194]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tronquito.Tronquito
+[2020.12.05-06.35.09:206][194]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.35.09:206][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.35.30:489][801]LogSlate: Window 'Tronquito' being destroyed
+[2020.12.05-06.35.30:509][801]LogSlate: Window 'Tronquito' being destroyed
+[2020.12.05-06.35.30:510][801]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.35.30:510][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.35.40:423][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Fcfm/Nueva carpeta/Tree/Tree - High Quality.jpg)
+[2020.12.05-06.35.40:695][ 15]LogTexture: Display: Building textures: Tree_-_High_Quality (AutoDXT, 4000X4000)
+[2020.12.05-06.36.15:556][ 48]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Tronquitos.M_Tronquitos
+[2020.12.05-06.36.15:560][ 48]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.15:709][ 48]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.15:717][ 48]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.15:732][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.05-06.36.15:732][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.36.15:732][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.05-06.36.15:732][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.05-06.36.17:890][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.05-06.36.18:264][ 94]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.05-06.36.18:675][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.36.19:127][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.05-06.36.19:951][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.05-06.36.21:426][174]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.12.05-06.36.21:426][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.12.05-06.36.21:426][174]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.12.05-06.36.21:426][174]MaterialEditorStats: Texture samplers: 2/16
+[2020.12.05-06.36.25:426][277]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.25:433][277]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.36.25:443][277]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.05-06.36.25:443][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.05-06.36.25:444][277]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.05-06.36.25:444][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.05-06.36.25:447][277]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.36.26:632][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.05-06.36.27:180][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.05-06.36.27:644][325]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.05-06.36.27:691][327]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.05-06.36.28:259][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.05-06.36.28:307][342]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.28:332][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-06.36.28:610][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.05-06.36.29:363][366]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.05-06.36.29:413][367]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.05-06.36.29:633][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.05-06.36.30:729][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.05-06.36.30:851][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.05-06.36.30:851][401]LogMaterialEditor: Saving and Compiling material M_Tronquitos
+[2020.12.05-06.36.31:752][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.05-06.36.31:752][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.05-06.36.31:753][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.05-06.36.31:753][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.05-06.36.31:767][401]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.31:798][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.05-06.36.31:841][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.05-06.36.31:841][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.05-06.36.31:882][401]LogMaterial: Display: Missing cached shader map for material M_Tronquitos, compiling. 
+[2020.12.05-06.36.31:951][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.12.05-06.36.31:979][401]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-06.36.32:543][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.05-06.36.32:543][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.12.05-06.36.32:543][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.12.05-06.36.32:543][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.12.05-06.36.33:101][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.12.05-06.36.33:101][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.05-06.36.33:101][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.05-06.36.33:101][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.05-06.36.33:661][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.05-06.36.33:816][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.05-06.36.33:821][401]TextureStreamingBuild: Display: Compiling optional shaders took 1.847 seconds.
+[2020.12.05-06.36.33:857][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.12.05-06.36.35:236][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.05-06.36.35:236][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.05-06.36.35:626][401]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.05-06.36.35:657][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tronquitos" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Tronquitos.uasset" SILENT=true
+[2020.12.05-06.36.35:672][401]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/M_Tronquitos4A2BE14141F009CF3E60A98B3EC1F6EC.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Tronquitos.uasset'
+[2020.12.05-06.36.35:707][401]AssetCheck: New page: Asset Save: M_Tronquitos
+[2020.12.05-06.36.35:707][401]LogContentValidation: Display: Validating Material /Game/Materials/M_Tronquitos.M_Tronquitos
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.12.05-06.36.35:709][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.05-06.36.37:031][440]LogMaterialEditor: Saving and Compiling material M_Tronquitos
+[2020.12.05-06.36.37:087][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tronquitos" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Tronquitos.uasset" SILENT=true
+[2020.12.05-06.36.37:110][440]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/M_Tronquitos51393D724FB14E042CD9BE9E70D95EB6.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Materials/M_Tronquitos.uasset'
+[2020.12.05-06.36.37:119][440]AssetCheck: New page: Asset Save: M_Tronquitos
+[2020.12.05-06.36.37:119][440]LogContentValidation: Display: Validating Material /Game/Materials/M_Tronquitos.M_Tronquitos
+[2020.12.05-06.36.38:227][474]LogSlate: Window 'M_Tronquitos' being destroyed
+[2020.12.05-06.36.38:244][474]LogSlate: Window 'M_Tronquitos' being destroyed
+[2020.12.05-06.36.38:287][474]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.36.38:287][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.36.48:628][806]LogActorFactory: Actor Factory created Tronquito
+[2020.12.05-06.36.49:259][825]LogActorFactory: Actor Factory created Tronquito
+[2020.12.05-06.37.42:647][873]Cmd: DELETE
+[2020.12.05-06.37.42:647][873]Cmd: ACTOR DELETE
+[2020.12.05-06.37.42:718][873]LogEditorActor: Deleted Actor: Brush
+[2020.12.05-06.37.42:749][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.05-06.37.42:779][873]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2020.12.05-06.37.45:007][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tronquito)
+[2020.12.05-06.37.54:191][279]Cmd: TRANSACTION UNDO
+[2020.12.05-06.37.54:191][279]LogEditorTransaction: Undo Scale Actors
+[2020.12.05-06.39.15:032][ 86]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.39.15:078][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.39.15:444][ 86]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:39:15 PM)
+[2020.12.05-06.39.15:446][ 86]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.39.15:553][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108495s)
+[2020.12.05-06.39.15:556][ 86]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.39.15:564][ 86]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001928C2F4E00), frame # 164086
+[2020.12.05-06.39.15:564][ 86]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001939BB87380), frame # 164086
+[2020.12.05-06.39.15:565][ 86]LogPlayLevel: PIE: World Init took: (0.011212s)
+[2020.12.05-06.39.15:565][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.120041s)
+[2020.12.05-06.39.15:584][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.39.15:594][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.39.15:594][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.39.15:595][ 86]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.39.15:595][ 86]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.39.15:601][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.39.15:602][ 86]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.39.15:647][ 86]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.39.15:659][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.39.15:659][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.39.15:660][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.39.15:660][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.39.15:668][ 86]LogInit: FAudioDevice initialized.
+[2020.12.05-06.39.15:729][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.39.15:730][ 86]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.39.15:813][ 86]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.39.15
+[2020.12.05-06.39.15:815][ 86]LogWorld: Bringing up level for play took: 0.080026
+[2020.12.05-06.39.15:818][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.12.05-06.39.15:831][ 86]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.39.15:859][ 86]PIE: Server logged in
+[2020.12.05-06.39.15:862][ 86]PIE: Play in editor total start time 0.794 seconds.
+[2020.12.05-06.40.43:207][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.40.43:207][922]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.40.43:211][922]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.40.43:215][922]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.40.43:223][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.40.43:229][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.40.43:237][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.40.43:354][922]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001939BB87380), frame # 166922
+[2020.12.05-06.40.43:354][922]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001928C2F4E00), frame # 166922
+[2020.12.05-06.40.43:374][922]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2020.12.05-06.40.43:443][923]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.12.05-06.40.44:617][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tronquito)
+[2020.12.05-06.42.28:910][667]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.42.28:951][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.42.28:951][667]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:42:28 PM)
+[2020.12.05-06.42.28:952][667]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.42.29:028][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075587s)
+[2020.12.05-06.42.29:029][667]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.42.29:029][667]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019393753600), frame # 170667
+[2020.12.05-06.42.29:031][667]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000192A3417380), frame # 170667
+[2020.12.05-06.42.29:032][667]LogPlayLevel: PIE: World Init took: (0.004178s)
+[2020.12.05-06.42.29:032][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.080040s)
+[2020.12.05-06.42.29:055][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.42.29:066][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.42.29:066][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.42.29:068][667]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.42.29:068][667]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.42.29:071][667]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.42.29:106][667]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.42.29:106][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.42.29:106][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.42.29:106][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.42.29:107][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.42.29:120][667]LogInit: FAudioDevice initialized.
+[2020.12.05-06.42.29:167][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.42.29:167][667]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.42.29:196][667]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.42.29
+[2020.12.05-06.42.29:197][667]LogWorld: Bringing up level for play took: 0.028289
+[2020.12.05-06.42.29:197][667]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.12.05-06.42.29:199][667]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.42.29:207][667]PIE: Server logged in
+[2020.12.05-06.42.29:210][667]PIE: Play in editor total start time 0.259 seconds.
+[2020.12.05-06.42.50:304][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.42.50:304][261]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.42.50:304][261]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.42.50:343][261]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.42.50:348][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.42.50:377][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.42.50:383][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.42.50:499][261]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000192A3417380), frame # 171261
+[2020.12.05-06.42.50:500][261]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019393753600), frame # 171261
+[2020.12.05-06.42.50:508][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.12.05-06.42.50:561][262]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.12.05-06.42.51:594][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tronquito)
+[2020.12.05-06.43.45:949][402]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.43.45:984][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.43.45:984][402]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:43:45 PM)
+[2020.12.05-06.43.45:984][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.43.46:053][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069116s)
+[2020.12.05-06.43.46:054][402]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.43.46:054][402]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019426655600), frame # 173402
+[2020.12.05-06.43.46:055][402]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019393486200), frame # 173402
+[2020.12.05-06.43.46:055][402]LogPlayLevel: PIE: World Init took: (0.001972s)
+[2020.12.05-06.43.46:055][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.071381s)
+[2020.12.05-06.43.46:078][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.12.05-06.43.46:085][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.43.46:086][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.43.46:086][402]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.43.46:086][402]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.43.46:088][402]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.43.46:126][402]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.43.46:126][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.43.46:126][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.43.46:126][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.43.46:127][402]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.43.46:144][402]LogInit: FAudioDevice initialized.
+[2020.12.05-06.43.46:176][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.43.46:176][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.43.46:204][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.43.46
+[2020.12.05-06.43.46:205][402]LogWorld: Bringing up level for play took: 0.027423
+[2020.12.05-06.43.46:206][402]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.12.05-06.43.46:209][402]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.43.46:215][402]PIE: Server logged in
+[2020.12.05-06.43.46:223][402]PIE: Play in editor total start time 0.24 seconds.
+[2020.12.05-06.46.00:307][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.46.00:308][685]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.46.00:310][685]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.46.00:317][685]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.46.00:323][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.46.00:347][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.46.00:353][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.46.00:494][685]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019393486200), frame # 177685
+[2020.12.05-06.46.00:494][685]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019426655600), frame # 177685
+[2020.12.05-06.46.00:498][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.05-06.46.00:556][686]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.12.05-06.46.02:364][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.05-06.46.04:492][768]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno0031D7B742F159D1F095F8BC45004380.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-06.46.05:880][768]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltDataB35867454D57C4A119B80A870AAD7178.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-06.46.06:062][768]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.46.06:062][768]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-06.46.06:062][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-06.46.09:115][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.12.05-06.46.10:148][821]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-06.46.10:199][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tronquito" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Models/Tronquito.uasset" SILENT=true
+[2020.12.05-06.46.11:138][821]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/Tronquito03CEF4F34F1EC847DDB52A9F8654AE03.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Models/Tronquito.uasset'
+[2020.12.05-06.46.11:144][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/Tree_-_High_Quality" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Tree_-_High_Quality.uasset" SILENT=true
+[2020.12.05-06.46.11:947][821]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/Tree_-_High_Quality234E31EB4D1E58CA9F562D8AED7E3679.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/Texture/Tree_-_High_Quality.uasset'
+[2020.12.05-06.46.11:983][821]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.46.11:983][821]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tronquito.Tronquito
+[2020.12.05-06.46.11:983][821]LogContentValidation: Display: Validating Texture2D /Game/Texture/Tree_-_High_Quality.Tree_-_High_Quality
+[2020.12.05-06.50.57:683][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stump_2)
+[2020.12.05-06.51.15:324][212]Cmd: TRANSACTION UNDO
+[2020.12.05-06.51.15:324][212]LogEditorTransaction: Undo Scale Actors
+[2020.12.05-06.51.31:366][951]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.05-06.51.32:085][986]LogEditorViewport: Clicking on Actor (LMB): BP_Manzana_C (BP_Manzana2)
+[2020.12.05-06.51.37:696][252]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.51.37:728][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.51.37:728][252]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:51:37 PM)
+[2020.12.05-06.51.37:729][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.51.37:811][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080988s)
+[2020.12.05-06.51.37:812][252]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.51.37:812][252]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001944B8E4400), frame # 193252
+[2020.12.05-06.51.37:812][252]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000193F2B94680), frame # 193252
+[2020.12.05-06.51.37:813][252]LogPlayLevel: PIE: World Init took: (0.001881s)
+[2020.12.05-06.51.37:813][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.083246s)
+[2020.12.05-06.51.37:836][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.51.37:850][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.51.37:850][252]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.51.37:850][252]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.51.37:853][252]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.51.37:889][252]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.51.37:889][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.51.37:889][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.51.37:889][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.51.37:890][252]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.51.37:906][252]LogInit: FAudioDevice initialized.
+[2020.12.05-06.51.37:970][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.51.37:970][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.51.37:994][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.51.37
+[2020.12.05-06.51.37:995][252]LogWorld: Bringing up level for play took: 0.024293
+[2020.12.05-06.51.37:995][252]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.12.05-06.51.37:997][252]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.51.38:004][252]PIE: Server logged in
+[2020.12.05-06.51.38:005][252]PIE: Play in editor total start time 0.278 seconds.
+[2020.12.05-06.51.44:753][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.51.44:753][425]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.51.44:753][425]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.51.44:804][425]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.51.44:815][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.51.44:831][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.51.44:841][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.51.44:939][425]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000193F2B94680), frame # 193425
+[2020.12.05-06.51.44:939][425]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001944B8E4400), frame # 193425
+[2020.12.05-06.51.44:947][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.12.05-06.51.45:019][426]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.12.05-06.51.49:429][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tronquito)
+[2020.12.05-06.52.01:955][122]LogEditorViewport: Clicking on Actor (LMB): BP_Manzana_C (BP_Manzana2)
+[2020.12.05-06.52.33:196][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.52.33:230][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.52.33:230][272]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:52:33 PM)
+[2020.12.05-06.52.33:230][272]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.52.33:307][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076328s)
+[2020.12.05-06.52.33:308][272]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.52.33:308][272]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001930A8E4C00), frame # 195272
+[2020.12.05-06.52.33:308][272]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001928E395BC0), frame # 195272
+[2020.12.05-06.52.33:309][272]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2020.12.05-06.52.33:309][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.078337s)
+[2020.12.05-06.52.33:329][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.12.05-06.52.33:338][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.52.33:339][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.52.33:339][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.52.33:340][272]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.52.33:340][272]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.52.33:342][272]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.52.33:377][272]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.52.33:377][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.52.33:377][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.52.33:377][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.52.33:377][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.52.33:392][272]LogInit: FAudioDevice initialized.
+[2020.12.05-06.52.33:443][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.52.33:443][272]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.52.33:470][272]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.52.33
+[2020.12.05-06.52.33:471][272]LogWorld: Bringing up level for play took: 0.027537
+[2020.12.05-06.52.33:471][272]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.12.05-06.52.33:473][272]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.52.33:478][272]PIE: Server logged in
+[2020.12.05-06.52.33:479][272]PIE: Play in editor total start time 0.25 seconds.
+[2020.12.05-06.53.20:776][690]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	BP_Manzana_C /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno:PersistentLevel.BP_Manzana6
+	Function /Game/BLUEPRINTS/BP_Manzana.BP_Manzana_C:ExecuteUbergraph_BP_Manzana:0015
+[2020.12.05-06.53.20:778][690]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  BP_Manzana Function:  Execute Ubergraph BP Manzana Graph:  EventGraph Node:  DestroyComponent
+[2020.12.05-06.53.30:617][ 39]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	BP_Manzana_C /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno:PersistentLevel.BP_Manzana6
+	Function /Game/BLUEPRINTS/BP_Manzana.BP_Manzana_C:ExecuteUbergraph_BP_Manzana:0015
+[2020.12.05-06.53.30:617][ 39]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  BP_Manzana Function:  Execute Ubergraph BP Manzana Graph:  EventGraph Node:  DestroyComponent
+[2020.12.05-06.53.32:407][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.53.32:407][ 94]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.53.32:408][ 94]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.53.32:451][ 94]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.53.32:456][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.53.32:487][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.53.32:492][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.53.32:593][ 94]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001928E395BC0), frame # 197094
+[2020.12.05-06.53.32:593][ 94]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001930A8E4C00), frame # 197094
+[2020.12.05-06.53.32:604][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.12.05-06.53.32:797][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.12.05-06.53.36:094][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/BP_Manzana.BP_Manzana
+[2020.12.05-06.55.10:235][537]BlueprintLog: New page: Compile BP_Manzana
+[2020.12.05-06.55.10:320][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.05-06.56.36:279][758]BlueprintLog: New page: Compile BP_Manzana
+[2020.12.05-06.56.36:385][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.12.05-06.56.37:446][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_Manzana" FILE="../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/BLUEPRINTS/BP_Manzana.uasset" SILENT=true
+[2020.12.05-06.56.37:518][783]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/BP_ManzanaB41B591D437C3B2CDA073D8D3482008C.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/BLUEPRINTS/BP_Manzana.uasset'
+[2020.12.05-06.56.37:539][783]AssetCheck: New page: Asset Save: BP_Manzana
+[2020.12.05-06.56.37:539][783]LogContentValidation: Display: Validating Blueprint /Game/BLUEPRINTS/BP_Manzana.BP_Manzana
+[2020.12.05-06.56.38:821][815]LogSlate: Window 'BP_Manzana' being destroyed
+[2020.12.05-06.56.38:847][815]LogSlate: Window 'BP_Manzana' being destroyed
+[2020.12.05-06.56.38:895][815]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.56.38:895][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.56.39:916][839]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.56.39:937][839]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-06.56.44:343][992]LogEditorViewport: Clicking on Actor (LMB): BP_Manzana_C (BP_Manzana6)
+[2020.12.05-06.56.48:895][219]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-06.56.48:938][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-06.56.48:938][219]PIE: New page: PIE session: NivelConTerreno (Dec 4, 2020, 6:56:48 PM)
+[2020.12.05-06.56.48:940][219]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.56.49:033][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093183s)
+[2020.12.05-06.56.49:036][219]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-06.56.49:037][219]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000193F8E2C800), frame # 202219
+[2020.12.05-06.56.49:037][219]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000193F1E420C0), frame # 202219
+[2020.12.05-06.56.49:037][219]LogPlayLevel: PIE: World Init took: (0.004361s)
+[2020.12.05-06.56.49:038][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.097890s)
+[2020.12.05-06.56.49:057][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-06.56.49:064][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-06.56.49:064][219]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-06.56.49:064][219]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 4: BackLeft
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 5: BackRight
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 6: SideLeft
+[2020.12.05-06.56.49:112][219]LogAudioMixer: Display: 7: SideRight
+[2020.12.05-06.56.49:150][219]LogAudioMixer: Display: Using Audio Device Altavoces (3- Realtek(R) Audio)
+[2020.12.05-06.56.49:150][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-06.56.49:150][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-06.56.49:150][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-06.56.49:150][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-06.56.49:165][219]LogInit: FAudioDevice initialized.
+[2020.12.05-06.56.49:222][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.56.49:223][219]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-06.56.49:248][219]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 0) at 2020.12.05-00.56.49
+[2020.12.05-06.56.49:249][219]LogWorld: Bringing up level for play took: 0.025892
+[2020.12.05-06.56.49:249][219]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.12.05-06.56.49:252][219]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-06.56.49:256][219]PIE: Server logged in
+[2020.12.05-06.56.49:258][219]PIE: Play in editor total start time 0.321 seconds.
+[2020.12.05-06.58.00:122][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-06.58.00:122][560]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-06.58.00:123][560]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-06.58.00:125][560]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-06.58.00:130][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.58.00:140][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-06.58.00:146][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-06.58.00:253][560]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000193F1E420C0), frame # 204560
+[2020.12.05-06.58.00:253][560]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000193F8E2C800), frame # 204560
+[2020.12.05-06.58.00:257][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.12.05-06.58.00:323][561]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.12.05-06.58.01:918][648]LogEditorViewport: Clicking on Actor (LMB): BP_Manzana_C (BP_Manzana6)
+[2020.12.05-06.58.02:970][696]Cmd: DELETE
+[2020.12.05-06.58.02:970][696]Cmd: ACTOR DELETE
+[2020.12.05-06.58.03:006][696]LogEditorActor: Deleted Actor: BP_Manzana_C
+[2020.12.05-06.58.03:025][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.12.05-06.58.03:028][696]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.12.05-06.58.04:450][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.05-06.58.05:986][771]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoD5B33FDE4E12FB19C7BCF188B2CA71C3.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-06.58.07:525][771]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData078DF940494326E865B9B19CF976D0C9.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-06.58.07:580][771]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.58.07:580][771]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-06.58.07:580][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-06.58.09:132][850]LogEditorViewport: Clicking on Actor (LMB): BP_Arbusto_C (BP_Arbusto3)
+[2020.12.05-06.59.10:571][674]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.05-06.59.28:388][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.05-06.59.29:427][542]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-06.59.29:498][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.05-06.59.29:855][542]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoCFC78AD443CCEA7DC334BE8AB1BA8385.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-06.59.29:899][542]LogFileHelpers: Saving map 'NivelConTerreno' took 0.421
+[2020.12.05-06.59.30:538][542]LogSavePackage: Moving '../../../../../Github/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData50DF88764FF072FD743376B7B3FE5C16.tmp' to '../../../../../Github/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-06.59.30:591][542]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-06.59.30:591][542]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-06.59.30:591][542]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
