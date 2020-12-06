@@ -3170,3 +3170,1111 @@ Script call stack:
 [2020.12.05-23.39.29:541][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2020.12.05-23.40.26:407][260]BlueprintLog: New page: Compile Croco
 [2020.12.05-23.40.26:516][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.12.05-23.41.12:661][121]BlueprintLog: New page: Compile Croco
+[2020.12.05-23.41.12:768][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.05-23.43.06:125][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.12.05-23.43.07:050][503]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-23.43.07:134][503]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/Croco4FC6D6CE42CDB9955983DFBC3A42261F.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Blueprints/Croco.uasset'
+[2020.12.05-23.43.07:168][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.05-23.43.07:634][503]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoBE41483C46125F1B51066D892C936538.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-23.43.07:682][503]LogFileHelpers: Saving map 'NivelConTerreno' took 0.546
+[2020.12.05-23.43.08:526][503]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData559F636B4EB2AD7CC7DE3581E7FBA08A.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-23.43.08:581][503]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-23.43.08:581][503]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Croco.Croco
+[2020.12.05-23.43.08:581][503]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-23.43.08:581][503]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-23.44.27:104][953]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.05-23.45.50:358][543]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-23.45.50:382][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-23.45.50:382][543]PIE: New page: PIE session: NivelConTerreno (Dec 5, 2020, 11:45:50 AM)
+[2020.12.05-23.45.50:382][543]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.45.50:470][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088001s)
+[2020.12.05-23.45.50:472][543]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-23.45.50:472][543]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013C0BF11E00), frame # 45543
+[2020.12.05-23.45.50:472][543]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013BF4E5F600), frame # 45543
+[2020.12.05-23.45.50:472][543]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2020.12.05-23.45.50:472][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.089978s)
+[2020.12.05-23.45.50:506][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-23.45.50:510][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-23.45.50:510][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-23.45.50:511][543]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-23.45.50:511][543]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-23.45.50:515][543]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-23.45.50:515][543]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-23.45.50:622][543]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.05-23.45.50:623][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-23.45.50:623][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-23.45.50:623][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-23.45.50:623][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-23.45.50:638][543]LogInit: FAudioDevice initialized.
+[2020.12.05-23.45.50:668][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.45.50:669][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-23.45.50:695][543]LogScript: Warning: Script Msg: Divide by zero detected: 111.813499 / 0
+Script call stack:
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:ExecuteUbergraph_Sevarog_AnimBlueprint
+
+[2020.12.05-23.45.50:697][543]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.12.05-17.45.50
+[2020.12.05-23.45.50:699][543]LogWorld: Bringing up level for play took: 0.029131
+[2020.12.05-23.45.50:708][543]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.12.05-23.45.50:711][543]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-23.45.50:720][543]PIE: Server logged in
+[2020.12.05-23.45.50:723][543]PIE: Play in editor total start time 0.341 seconds.
+[2020.12.05-23.45.51:791][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.45.51:791][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.45.51:791][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.45.51:791][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.45.52:869][552]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.12.05-23.47.19:594][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.47.19:595][556]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.47.19:596][556]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-23.47.19:682][556]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.47.19:695][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.19:737][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-23.47.19:749][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.19:862][556]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013BF4E5F600), frame # 46556
+[2020.12.05-23.47.19:862][556]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013C0BF11E00), frame # 46556
+[2020.12.05-23.47.19:874][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.12.05-23.47.20:088][557]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.12.05-23.47.21:258][589]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.47.21:365][589]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.47.37:134][643]LogSlate: Window 'CrocoAnim' being destroyed
+[2020.12.05-23.47.37:138][643]LogSlate: Window 'CrocoAnim' being destroyed
+[2020.12.05-23.47.37:151][643]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.47.37:151][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.37:461][643]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.47.37:461][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.37:467][643]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.47.37:468][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.37:779][643]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.47.37:779][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.47.40:071][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.12.05-23.47.41:393][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Croco.Croco
+[2020.12.05-23.48.10:403][951]BlueprintLog: New page: Compile Croco
+[2020.12.05-23.48.10:517][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.12.05-23.48.13:113][976]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/CrocoDD427C254E8B97FF29ABC09CB1046A1B.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Blueprints/Croco.uasset'
+[2020.12.05-23.48.13:128][976]AssetCheck: New page: Asset Save: Croco
+[2020.12.05-23.48.13:128][976]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Croco.Croco
+[2020.12.05-23.48.17:211][ 16]LogSlate: Window 'Croco' being destroyed
+[2020.12.05-23.48.17:342][ 16]LogSlate: Window 'Croco' being destroyed
+[2020.12.05-23.48.17:404][ 16]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.48.17:404][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.48.18:643][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2020.12.05-23.48.19:648][ 28]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-23.48.19:697][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.05-23.48.20:135][ 28]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno860AC0B6434FB41CC110E1991FFC67B3.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-23.48.20:177][ 28]LogFileHelpers: Saving map 'NivelConTerreno' took 0.505
+[2020.12.05-23.48.21:144][ 28]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData9E1F991C43FA0463862ABA8175D17DF1.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-23.48.21:552][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-23.48.21:552][ 28]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-23.48.21:552][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-23.48.55:357][212]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-23.48.55:379][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-23.48.55:379][212]PIE: New page: PIE session: NivelConTerreno (Dec 5, 2020, 11:48:55 AM)
+[2020.12.05-23.48.55:379][212]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.48.55:465][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086245s)
+[2020.12.05-23.48.55:466][212]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-23.48.55:466][212]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013C1EEF7800), frame # 47212
+[2020.12.05-23.48.55:466][212]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013B757DF4C0), frame # 47212
+[2020.12.05-23.48.55:466][212]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2020.12.05-23.48.55:466][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.087948s)
+[2020.12.05-23.48.55:495][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-23.48.55:498][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-23.48.55:498][212]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-23.48.55:498][212]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-23.48.55:500][212]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-23.48.55:500][212]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-23.48.55:614][212]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.05-23.48.55:614][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-23.48.55:614][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-23.48.55:614][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-23.48.55:614][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-23.48.55:627][212]LogInit: FAudioDevice initialized.
+[2020.12.05-23.48.55:688][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.48.55:688][212]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-23.48.55:710][212]LogScript: Warning: Script Msg: Divide by zero detected: 111.813499 / 0
+Script call stack:
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:ExecuteUbergraph_Sevarog_AnimBlueprint
+
+[2020.12.05-23.48.55:711][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.12.05-17.48.55
+[2020.12.05-23.48.55:714][212]LogWorld: Bringing up level for play took: 0.024980
+[2020.12.05-23.48.55:714][212]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.12.05-23.48.55:716][212]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-23.48.55:721][212]PIE: Server logged in
+[2020.12.05-23.48.55:722][212]PIE: Play in editor total start time 0.344 seconds.
+[2020.12.05-23.48.57:964][219]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.12.05-23.50.32:763][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.50.32:763][345]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.50.32:764][345]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-23.50.33:062][345]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.50.33:067][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.50.33:077][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-23.50.33:084][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.50.33:151][345]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013B757DF4C0), frame # 48345
+[2020.12.05-23.50.33:152][345]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013C1EEF7800), frame # 48345
+[2020.12.05-23.50.33:157][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.05-23.50.33:196][346]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.12.05-23.50.34:389][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Croco.Croco
+[2020.12.05-23.50.59:567][614]BlueprintLog: New page: Compile Croco
+[2020.12.05-23.50.59:640][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.12.05-23.51.00:276][620]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/CrocoDD9DE5E245E1368F7C405F993F388AA6.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Blueprints/Croco.uasset'
+[2020.12.05-23.51.00:288][620]AssetCheck: New page: Asset Save: Croco
+[2020.12.05-23.51.00:288][620]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Croco.Croco
+[2020.12.05-23.51.01:813][635]LogSlate: Window 'Croco' being destroyed
+[2020.12.05-23.51.01:943][635]LogSlate: Window 'Croco' being destroyed
+[2020.12.05-23.51.01:944][635]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.51.01:944][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.51.05:529][772]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-23.51.05:552][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-23.51.05:552][772]PIE: New page: PIE session: NivelConTerreno (Dec 5, 2020, 11:51:05 AM)
+[2020.12.05-23.51.05:552][772]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.51.05:636][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083790s)
+[2020.12.05-23.51.05:637][772]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-23.51.05:637][772]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013C13A6F200), frame # 48772
+[2020.12.05-23.51.05:637][772]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013B070A9440), frame # 48772
+[2020.12.05-23.51.05:638][772]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2020.12.05-23.51.05:638][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.085404s)
+[2020.12.05-23.51.05:664][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-23.51.05:667][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-23.51.05:667][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-23.51.05:667][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-23.51.05:669][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-23.51.05:669][772]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-23.51.05:782][772]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.05-23.51.05:782][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-23.51.05:782][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-23.51.05:782][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-23.51.05:782][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-23.51.05:795][772]LogInit: FAudioDevice initialized.
+[2020.12.05-23.51.05:838][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.51.05:838][772]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-23.51.05:860][772]LogScript: Warning: Script Msg: Divide by zero detected: 111.813499 / 0
+Script call stack:
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:ExecuteUbergraph_Sevarog_AnimBlueprint
+
+[2020.12.05-23.51.05:861][772]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.12.05-17.51.05
+[2020.12.05-23.51.05:863][772]LogWorld: Bringing up level for play took: 0.023553
+[2020.12.05-23.51.05:863][772]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.12.05-23.51.05:865][772]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-23.51.05:870][772]PIE: Server logged in
+[2020.12.05-23.51.05:872][772]PIE: Play in editor total start time 0.32 seconds.
+[2020.12.05-23.51.06:881][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.51.06:881][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.51.06:881][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.51.06:881][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.51.08:140][780]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.12.05-23.51.55:733][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.51.55:734][198]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.51.55:734][198]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-23.51.55:912][198]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.51.55:917][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.51.55:970][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-23.51.55:978][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.51.56:027][198]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013B070A9440), frame # 49198
+[2020.12.05-23.51.56:027][198]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013C13A6F200), frame # 49198
+[2020.12.05-23.51.56:032][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.05-23.51.56:156][199]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.12.05-23.51.57:460][230]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.51.57:564][230]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.51.58:775][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.05-23.52.00:221][243]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-23.52.00:280][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.05-23.52.00:715][243]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoF034E5FD44CDC6681414CCACEA73DC08.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-23.52.00:758][243]LogFileHelpers: Saving map 'NivelConTerreno' took 0.503
+[2020.12.05-23.52.01:525][243]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData24594ED64944FD22DD74419EBE4FC8AF.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-23.52.01:561][243]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-23.52.01:561][243]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-23.52.01:561][243]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-23.52.15:073][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-23.52.15:096][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-23.52.15:096][422]PIE: New page: PIE session: NivelConTerreno (Dec 5, 2020, 11:52:15 AM)
+[2020.12.05-23.52.15:096][422]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.52.15:183][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087006s)
+[2020.12.05-23.52.15:184][422]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-23.52.15:184][422]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013B95857C00), frame # 49422
+[2020.12.05-23.52.15:184][422]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013B74F5C540), frame # 49422
+[2020.12.05-23.52.15:185][422]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.12.05-23.52.15:185][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.088691s)
+[2020.12.05-23.52.15:213][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-23.52.15:586][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-23.52.15:586][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-23.52.15:587][422]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-23.52.15:587][422]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-23.52.15:589][422]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-23.52.15:589][422]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-23.52.15:703][422]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.05-23.52.15:704][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-23.52.15:704][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-23.52.15:704][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-23.52.15:704][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-23.52.15:717][422]LogInit: FAudioDevice initialized.
+[2020.12.05-23.52.15:770][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.52.15:771][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-23.52.15:792][422]LogScript: Warning: Script Msg: Divide by zero detected: 111.813499 / 0
+Script call stack:
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:ExecuteUbergraph_Sevarog_AnimBlueprint
+
+[2020.12.05-23.52.15:794][422]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.12.05-17.52.15
+[2020.12.05-23.52.15:795][422]LogWorld: Bringing up level for play took: 0.023873
+[2020.12.05-23.52.15:796][422]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.12.05-23.52.15:797][422]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-23.52.15:803][422]PIE: Server logged in
+[2020.12.05-23.52.15:805][422]PIE: Play in editor total start time 0.71 seconds.
+[2020.12.05-23.52.16:912][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.52.16:913][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.52.16:913][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Armado". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.52.16:913][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  SpawnActor BP Bala
+[2020.12.05-23.52.18:092][429]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.12.05-23.53.55:177][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.53.55:179][ 69]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.53.55:179][ 69]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-23.53.55:531][ 69]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.53.55:538][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.53.55:553][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-23.53.55:559][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.53.55:618][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013B74F5C540), frame # 50069
+[2020.12.05-23.53.55:618][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013B95857C00), frame # 50069
+[2020.12.05-23.53.55:624][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.12.05-23.53.55:738][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.12.05-23.53.57:471][ 98]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.53.57:576][ 98]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-23.53.59:378][156]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.12.05-23.53.59:400][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.05-23.53.59:400][156]PIE: New page: PIE session: NivelConTerreno (Dec 5, 2020, 11:53:59 AM)
+[2020.12.05-23.53.59:400][156]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.53.59:486][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085379s)
+[2020.12.05-23.53.59:487][156]LogAIModule: Creating AISystem for world NivelConTerreno
+[2020.12.05-23.53.59:487][156]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013C17FA8E00), frame # 50156
+[2020.12.05-23.53.59:487][156]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013C0B99EE80), frame # 50156
+[2020.12.05-23.53.59:487][156]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2020.12.05-23.53.59:487][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno to /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno (0.087222s)
+[2020.12.05-23.53.59:512][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-23.53.59:514][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-23.53.59:514][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-23.53.59:515][156]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-23.53.59:515][156]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-23.53.59:517][156]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-23.53.59:517][156]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-23.53.59:615][156]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.05-23.53.59:616][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-23.53.59:616][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-23.53.59:616][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-23.53.59:616][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-23.53.59:632][156]LogInit: FAudioDevice initialized.
+[2020.12.05-23.53.59:685][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.53.59:685][156]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.05-23.53.59:709][156]LogScript: Warning: Script Msg: Divide by zero detected: 111.813499 / 0
+Script call stack:
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.Sevarog_AnimBlueprint_C:ExecuteUbergraph_Sevarog_AnimBlueprint
+
+[2020.12.05-23.53.59:711][156]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno.NivelConTerreno up for play (max tick rate 60) at 2020.12.05-17.53.59
+[2020.12.05-23.53.59:713][156]LogWorld: Bringing up level for play took: 0.027014
+[2020.12.05-23.53.59:713][156]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.12.05-23.53.59:715][156]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.05-23.53.59:720][156]PIE: Server logged in
+[2020.12.05-23.53.59:722][156]PIE: Play in editor total start time 0.322 seconds.
+[2020.12.05-23.54.01:822][163]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.12.05-23.54.48:401][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-23.54.48:404][480]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_NivelConTerreno
+[2020.12.05-23.54.48:404][480]LogSlate: Window 'Whiteroom Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.05-23.54.48:622][480]LogWorld: UWorld::CleanupWorld for NivelConTerreno, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-23.54.48:627][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.54.48:705][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-23.54.48:710][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-23.54.48:762][480]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013C0B99EE80), frame # 50480
+[2020.12.05-23.54.48:762][480]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013C17FA8E00), frame # 50480
+[2020.12.05-23.54.48:767][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.12.05-23.54.48:803][481]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.12.05-23.54.50:364][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.05-23.54.50:799][496]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoB225B3E6483DF54FF85192A3B176E957.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.05-23.54.51:622][496]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData601BACF34E528CF5A3CE5C9F086639FD.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.05-23.54.51:658][496]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-23.54.51:658][496]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.05-23.54.51:658][496]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.05-23.54.52:853][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.05-23.56.49:187][342]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada
+[2020.12.05-23.56.49:219][342]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.56.49:729][342]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.05-23.56.49:729][342]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.05-23.56.49:729][342]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.05-23.56.50:581][342]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.56.50:590][342]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.56.50:984][342]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.56.52:451][357]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2020.12.05-23.56.52:978][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.12.05-23.56.53:994][374]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.12.05-23.56.54:257][376]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.12.05-23.56.54:665][381]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.12.05-23.56.55:453][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.12.05-23.56.55:735][392]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.12.05-23.56.56:142][395]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.12.05-23.56.56:931][403]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.12.05-23.56.57:111][411]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.12.05-23.56.57:500][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.12.05-23.56.58:402][436]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.12.05-23.56.58:402][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.12.05-23.56.58:402][436]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.12.05-23.56.58:402][436]MaterialEditorStats: Texture samplers: 2/16
+[2020.12.05-23.57.01:316][588]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.12.05-23.57.02:606][655]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.05-23.57.02:725][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.05-23.57.28:678][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/modelos/Letreros/letreText.png)
+[2020.12.05-23.57.29:014][ 61]LogTexture: Display: Building textures: letreText (AutoDXT, 1024X1024)
+[2020.12.05-23.57.30:455][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/modelos/Letreros/letreText_Normal.png)
+[2020.12.05-23.57.30:500][ 61]LogTexture: Display: Building textures: letreText_Normal (AutoDXT, 1024X1024)
+[2020.12.05-23.58.09:129][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.12.05-23.58.10:329][564]LogSlate: Window 'Save Content' being destroyed
+[2020.12.05-23.58.10:451][564]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/letreText05E5FC2A4E00D9D6165C129E0750D0F5.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Materials/letreText.uasset'
+[2020.12.05-23.58.10:543][564]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/letreText_Normal12B08BF8486B6DD3098899A745CE06DD.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Materials/letreText_Normal.uasset'
+[2020.12.05-23.58.10:596][564]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/M_Letrero_EntradaC9F91E2545E5D24E80177197D9CFED57.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Models/M_Letrero_Entrada.uasset'
+[2020.12.05-23.58.10:625][564]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-23.58.10:625][564]LogContentValidation: Display: Validating Texture2D /Game/Materials/letreText.letreText
+[2020.12.05-23.58.10:625][564]LogContentValidation: Display: Validating Texture2D /Game/Materials/letreText_Normal.letreText_Normal
+[2020.12.05-23.58.10:625][564]LogContentValidation: Display: Validating Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada
+[2020.12.05-23.58.15:030][704]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.15:038][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-23.58.15:076][704]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.05-23.58.15:076][704]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.05-23.58.15:076][704]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.05-23.58.15:079][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-23.58.15:091][704]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.15:098][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.12.05-23.58.15:111][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.05-23.58.15:115][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.12.05-23.58.15:120][704]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.17:500][785]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.12.05-23.58.17:516][786]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.12.05-23.58.19:409][866]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.12.05-23.58.20:063][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.12.05-23.58.20:522][898]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.12.05-23.58.21:125][915]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.21:134][915]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.21:262][920]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.12.05-23.58.21:899][941]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.21:910][941]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.22:926][968]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.12.05-23.58.23:007][974]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.12.05-23.58.23:414][992]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.12.05-23.58.24:315][ 24]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.12.05-23.58.24:429][ 28]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.12.05-23.58.24:654][ 41]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.12.05-23.58.25:029][ 62]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.25:037][ 62]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.05-23.58.25:048][ 62]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.05-23.58.25:054][ 62]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.26:089][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.12.05-23.58.26:342][112]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.12.05-23.58.26:723][130]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.12.05-23.58.26:734][130]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.26:745][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.05-23.58.26:754][130]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.28:450][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.12.05-23.58.28:543][203]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.12.05-23.58.28:614][205]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.12.05-23.58.29:651][257]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.29:658][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.05-23.58.29:667][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.12.05-23.58.29:671][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.05-23.58.29:678][257]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.30:387][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.12.05-23.58.31:244][315]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.12.05-23.58.31:415][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.12.05-23.58.31:819][344]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.31:833][344]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.12.05-23.58.31:843][344]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.32:679][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.12.05-23.58.33:371][406]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.12.05-23.58.33:704][417]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.12.05-23.58.34:354][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.12.05-23.58.34:925][441]LogMaterialEditor: Saving and Compiling material M_Letrero_Entrada
+[2020.12.05-23.58.35:587][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.12.05-23.58.35:587][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.12.05-23.58.35:587][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.12.05-23.58.35:598][441]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.36:023][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.12.05-23.58.36:098][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.12.05-23.58.36:098][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.12.05-23.58.36:129][441]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.36:185][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.12.05-23.58.36:394][441]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-23.58.36:977][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.12.05-23.58.36:977][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.12.05-23.58.36:977][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.12.05-23.58.37:535][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.12.05-23.58.37:535][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.12.05-23.58.37:535][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.12.05-23.58.37:535][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.12.05-23.58.38:093][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2020.12.05-23.58.38:093][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2020.12.05-23.58.38:652][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.12.05-23.58.38:652][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2020.12.05-23.58.38:652][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.12.05-23.58.39:010][441]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.12.05-23.58.39:010][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.12.05-23.58.39:010][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.12.05-23.58.39:017][441]TextureStreamingBuild: Display: Compiling optional shaders took 2.667 seconds.
+[2020.12.05-23.58.39:060][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.05-23.58.41:910][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.05-23.58.41:910][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.12.05-23.58.43:182][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.05-23.58.45:213][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.05-23.58.45:274][441]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/M_Letrero_Entrada808BEF644504297BF388C98EE94106DC.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Models/M_Letrero_Entrada.uasset'
+[2020.12.05-23.58.45:313][441]AssetCheck: New page: Asset Save: M_Letrero_Entrada
+[2020.12.05-23.58.45:313][441]LogContentValidation: Display: Validating Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada
+[2020.12.05-23.58.45:316][441]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.05-23.58.45:328][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.12.05-23.58.45:328][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: Texture samplers: 5/16
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.12.05-23.58.45:328][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.05-23.58.46:810][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.12.05-23.58.48:297][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.06-00.00.30:312][947]LogMaterialEditor: Saving and Compiling material M_Letrero_Entrada
+[2020.12.06-00.00.30:359][947]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/M_Letrero_EntradaA3A9E35D4E7FF6780CBB0487EE8213F3.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Models/M_Letrero_Entrada.uasset'
+[2020.12.06-00.00.30:376][947]AssetCheck: New page: Asset Save: M_Letrero_Entrada
+[2020.12.06-00.00.30:376][947]LogContentValidation: Display: Validating Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada
+[2020.12.06-00.00.31:416][981]LogSlate: Window 'M_Letrero_Entrada' being destroyed
+[2020.12.06-00.00.31:442][981]LogSlate: Window 'M_Letrero_Entrada' being destroyed
+[2020.12.06-00.00.31:473][981]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.00.31:473][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-00.01.05:747][433]LogMaterial: Display: Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada needed to have new flag set bUsedWithStaticLighting !
+[2020.12.06-00.01.05:759][433]LogMaterial: Display: Missing cached shader map for material M_Letrero_Entrada, compiling. 
+[2020.12.06-00.01.05:846][434]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.12.06-00.01.05:846][434]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.12.06-00.01.05:846][434]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.06-00.01.11:135][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.06-00.01.12:254][460]LogSlate: Window 'Save Content' being destroyed
+[2020.12.06-00.01.12:282][460]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/M_Letrero_EntradaF4B1DD3F4696DE9B5698AEBDF9BD5066.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/Models/M_Letrero_Entrada.uasset'
+[2020.12.06-00.01.12:310][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.12.06-00.01.12:765][460]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno55CE852440782D18C888AAA062F88777.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.06-00.01.12:807][460]LogFileHelpers: Saving map 'NivelConTerreno' took 0.523
+[2020.12.06-00.01.13:698][460]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData3ACD740D4C3C9283AA0F16B86EDB511A.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.06-00.01.13:738][460]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-00.01.13:738][460]LogContentValidation: Display: Validating Material /Game/Models/M_Letrero_Entrada.M_Letrero_Entrada
+[2020.12.06-00.01.13:738][460]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.06-00.01.13:738][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.06-00.01.59:576][748]Cmd: TRANSACTION UNDO
+[2020.12.06-00.01.59:576][748]LogEditorTransaction: Undo Create Actors
+[2020.12.06-00.02.03:914][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.06-00.02.15:390][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.06-00.02.16:310][873]LogSlate: Window 'Save Content' being destroyed
+[2020.12.06-00.02.16:373][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.06-00.02.16:803][873]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerrenoBF148A7A4F31ED2A9FED629F35F202E7.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno.umap'
+[2020.12.06-00.02.16:844][873]LogFileHelpers: Saving map 'NivelConTerreno' took 0.495
+[2020.12.06-00.02.17:644][873]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Saved/NivelConTerreno_BuiltData5AE623C444B1166E7FF4EB8948A8D0C1.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/Escuela/Facultad/7 semestre/escenarios de videojuegos/1er avance/PIA/Escenario 6/LMAD_EV/Level design/Whiteroom/Content/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.uasset'
+[2020.12.06-00.02.17:669][873]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-00.02.17:669][873]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NivelConTerreno.NivelConTerreno
+[2020.12.06-00.02.17:669][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NivelConTerreno_BuiltData.NivelConTerreno_BuiltData
+[2020.12.06-00.02.19:373][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.06-00.02.19:478][886]LogSlate: Window 'Whiteroom - Unreal Editor' being destroyed
+[2020.12.06-00.02.19:655][886]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.06-00.02.20:539][887]Cmd: QUIT_EDITOR
+[2020.12.06-00.02.20:539][887]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.06-00.02.20:553][887]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.06-00.02.21:588][887]LogExit: Preparing to exit.
+[2020.12.06-00.02.22:541][887]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:541][887]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:542][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:543][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:544][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:545][887]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:545][887]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:545][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:546][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-00.02.22:664][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.23:042][887]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.06-00.02.23:101][887]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-00.02.23:107][887]LogExit: Editor shut down
+[2020.12.06-00.02.23:108][887]LogExit: Transaction tracking system shut down
+[2020.12.06-00.02.24:166][887]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000013A9EB7D800), frame # 56887
+[2020.12.06-00.02.24:166][887]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A9EABDE40), frame # 56887
+[2020.12.06-00.02.24:166][887]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A9EAABC00), frame # 56887
+[2020.12.06-00.02.24:636][887]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013AAFB9BE00), frame # 56887
+[2020.12.06-00.02.24:636][887]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013AC4C2A5C0), frame # 56887
+[2020.12.06-00.02.24:723][887]LogExit: Object subsystem successfully closed.
+[2020.12.06-00.02.24:754][887]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.06-00.02.24:814][887]LogModuleManager: Shutting down and abandoning module AnimationEditor (806)
+[2020.12.06-00.02.24:815][887]LogModuleManager: Shutting down and abandoning module PinnedCommandList (804)
+[2020.12.06-00.02.24:815][887]LogModuleManager: Shutting down and abandoning module SkeletonEditor (802)
+[2020.12.06-00.02.24:815][887]LogModuleManager: Shutting down and abandoning module BlueprintGraph (800)
+[2020.12.06-00.02.24:815][887]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (798)
+[2020.12.06-00.02.24:815][887]LogModuleManager: Shutting down and abandoning module Voice (796)
+[2020.12.06-00.02.24:867][887]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (794)
+[2020.12.06-00.02.24:867][887]LogModuleManager: Shutting down and abandoning module SceneOutliner (792)
+[2020.12.06-00.02.24:867][887]LogModuleManager: Shutting down and abandoning module AddContentDialog (790)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module WidgetCarousel (789)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module CollectionManager (784)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module StatsViewer (782)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (780)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module FoliageEdit (778)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module LandscapeEditor (776)
+[2020.12.06-00.02.24:960][887]LogModuleManager: Shutting down and abandoning module MeshPaintMode (774)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (772)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module ActorPickerMode (770)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (768)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (766)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AutomationWorker (764)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module SteamVREditor (762)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module OculusMR (760)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module GooglePADEditor (758)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (756)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (754)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (752)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (750)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (748)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (746)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (744)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (742)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (740)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module WebMMedia (738)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (736)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (734)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module SequenceRecorder (733)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (730)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (728)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (726)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (724)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (722)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (720)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (718)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (716)
+[2020.12.06-00.02.24:961][887]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (714)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (712)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module PlanarCut (710)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module CharacterAI (708)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module TextureAlignMode (706)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module BspMode (704)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module PlacementMode (703)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module GeometryMode (700)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (698)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module SmartSnapping (696)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module SessionServices (694)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module MeshPaint (692)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module ViewportSnapping (690)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module ViewportInteraction (688)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module ClothPainter (686)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (685)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module LogVisualizer (682)
+[2020.12.06-00.02.24:962][887]LogModuleManager: Shutting down and abandoning module IntroTutorials (680)
+[2020.12.06-00.02.24:963][887]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (679)
+[2020.12.06-00.02.24:963][887]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (676)
+[2020.12.06-00.02.24:963][887]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (674)
+[2020.12.06-00.02.24:963][887]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (672)
+[2020.12.06-00.02.24:963][887]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (671)
+[2020.12.06-00.02.25:865][887]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (668)
+[2020.12.06-00.02.25:865][887]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (666)
+[2020.12.06-00.02.25:865][887]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (664)
+[2020.12.06-00.02.25:865][887]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (662)
+[2020.12.06-00.02.25:865][887]LogModuleManager: Shutting down and abandoning module TraceInsights (660)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module TraceServices (659)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (656)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (654)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module InputBindingEditor (652)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module MergeActors (650)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (648)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module LocalizationService (647)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module HardwareTargeting (644)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (642)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module UndoHistory (640)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module XmlParser (638)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module Blutility (636)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (634)
+[2020.12.06-00.02.25:866][887]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (633)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (630)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module SettingsEditor (628)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module ProjectLauncher (626)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module SessionFrontend (624)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module ProfilerClient (622)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module DeviceManager (620)
+[2020.12.06-00.02.25:867][887]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (619)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module AutomationController (616)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module AutomationWindow (614)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module Layers (612)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (610)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module DetailCustomizations (608)
+[2020.12.06-00.02.25:900][887]LogModuleManager: Shutting down and abandoning module PackagesDialog (606)
+[2020.12.06-00.02.25:901][887]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (604)
+[2020.12.06-00.02.25:901][887]LogModuleManager: Shutting down and abandoning module Persona (602)
+[2020.12.06-00.02.25:901][887]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (601)
+[2020.12.06-00.02.25:901][887]LogModuleManager: Shutting down and abandoning module AnimGraph (599)
+[2020.12.06-00.02.25:901][887]LogModuleManager: Shutting down and abandoning module Kismet (596)
+[2020.12.06-00.02.25:989][887]LogModuleManager: Shutting down and abandoning module KismetWidgets (595)
+[2020.12.06-00.02.25:989][887]LogModuleManager: Shutting down and abandoning module GraphEditor (592)
+[2020.12.06-00.02.25:989][887]LogModuleManager: Shutting down and abandoning module StructViewer (590)
+[2020.12.06-00.02.25:989][887]LogModuleManager: Shutting down and abandoning module ClassViewer (588)
+[2020.12.06-00.02.25:994][887]LogModuleManager: Shutting down and abandoning module Toolbox (586)
+[2020.12.06-00.02.25:994][887]LogModuleManager: Shutting down and abandoning module ModuleUI (584)
+[2020.12.06-00.02.25:994][887]LogModuleManager: Shutting down and abandoning module OutputLog (582)
+[2020.12.06-00.02.26:061][887]LogModuleManager: Shutting down and abandoning module GammaUI (580)
+[2020.12.06-00.02.26:062][887]LogModuleManager: Shutting down and abandoning module Documentation (578)
+[2020.12.06-00.02.26:064][887]LogModuleManager: Shutting down and abandoning module LiveCoding (576)
+[2020.12.06-00.02.26:065][887]LogModuleManager: Shutting down and abandoning module LevelSequence (574)
+[2020.12.06-00.02.26:065][887]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (572)
+[2020.12.06-00.02.26:065][887]LogModuleManager: Shutting down and abandoning module MovieScene (570)
+[2020.12.06-00.02.26:065][887]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (568)
+[2020.12.06-00.02.26:065][887]LogModuleManager: Shutting down and abandoning module LauncherPlatform (566)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module AnalyticsET (564)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module PortalServices (562)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module PortalRpc (560)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module MessagingRpc (558)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (556)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module AudioMixerCore (555)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module AIModule (552)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module GameplayDebugger (551)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module AITestSuite (549)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module NavigationSystem (547)
+[2020.12.06-00.02.26:066][887]LogModuleManager: Shutting down and abandoning module ProfilerService (544)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module TaskGraph (542)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ScreenshotTools (540)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module SynthesisEditor (538)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module Synthesis (536)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (534)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (532)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module OculusEditor (530)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module OculusInput (528)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (502)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (500)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module TemplateSequence (498)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (496)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (494)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (492)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (490)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (489)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (486)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (484)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (478)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (476)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (474)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (472)
+[2020.12.06-00.02.26:143][887]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (470)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (466)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module MeshConversion (464)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module DynamicMesh (462)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (460)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometricObjects (458)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (456)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (455)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (452)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (450)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (448)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (446)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module ChaosNiagara (444)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module FractureEditor (442)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (440)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module ChaosCloth (438)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module BackChannel (436)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (434)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module AutomationUtils (432)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module AlembicImporter (430)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module AlembicLibrary (429)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCache (428)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (427)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (422)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (420)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2020.12.06-00.02.26:144][887]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (414)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (412)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (410)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (402)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (400)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module UObjectPlugin (398)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (396)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (394)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (392)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (390)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module GitSourceControl (388)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module SourceControl (387)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (384)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (382)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (380)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (378)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (376)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (374)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (372)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module Paper2DEditor (370)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module SignificanceManager (366)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (364)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (362)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (358)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (356)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module ApexDestruction (354)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.12.06-00.02.26:145][887]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.12.06-00.02.26:247][887]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.12.06-00.02.26:348][887]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.12.06-00.02.26:348][887]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.12.06-00.02.26:348][887]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.12.06-00.02.26:349][887]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.12.06-00.02.26:350][887]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.12.06-00.02.26:350][887]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.12.06-00.02.26:351][887]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.12.06-00.02.26:351][887]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.12.06-00.02.26:352][887]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.12.06-00.02.26:367][887]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.12.06-00.02.26:368][887]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.12.06-00.02.26:370][887]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.12.06-00.02.26:371][887]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.12.06-00.02.26:373][887]LogXGEController: Cleaning working directory: C:/Users/TEMP.DESKTOP-DV3H2OO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.12.06-00.02.26:373][887]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.12.06-00.02.26:374][887]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.12.06-00.02.26:393][887]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.12.06-00.02.26:415][887]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.12.06-00.02.26:422][887]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.12.06-00.02.26:445][887]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.12.06-00.02.26:446][887]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.12.06-00.02.26:446][887]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.12.06-00.02.26:446][887]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.12.06-00.02.26:447][887]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.12.06-00.02.26:447][887]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.12.06-00.02.26:449][887]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.12.06-00.02.26:449][887]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.12.06-00.02.26:484][887]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.12.06-00.02.26:484][887]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.06-00.02.26:484][887]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF9A8F177-4626-1AD0-B96A-24AF84329226%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=c5d0b274478d9ab3bedac89f0c53462d%7Ca9f3595f1f9a43ee9a657e1d4e7d61ea%7Cd7df89a8-7e04-48f2-8fba-96b552423cfb&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.06-00.02.26:489][887]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.12.06-00.02.26:492][887]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.12.06-00.02.26:500][887]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.12.06-00.02.26:501][887]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.12.06-00.02.26:501][887]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.12.06-00.02.26:501][887]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.12.06-00.02.26:501][887]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.12.06-00.02.26:501][887]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.06-00.02.26:502][887]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.06-00.02.26:863][887]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.06-00.02.26:863][887]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.06-00.02.26:863][887]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.06-00.02.26:864][887]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.06-00.02.26:875][887]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.06-00.02.26:902][887]LogD3D11RHI: Shutdown
+[2020.12.06-00.02.26:902][887]LogD3D11RHI: CleanupD3DDevice
+[2020.12.06-00.02.27:060][887]LogExit: Exiting.
+[2020.12.06-00.02.27:108][887]Log file closed, 12/05/20 18:02:27
